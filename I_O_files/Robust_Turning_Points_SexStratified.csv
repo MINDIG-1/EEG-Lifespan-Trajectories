@@ -1,0 +1,1787 @@
+Feature,Channel,Category,Model,Sex,Transition_Type,Critical_Age
+theta_beta_ratio,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+theta_beta_ratio,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.053053053053056
+theta_beta_ratio,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.82082082082082
+theta_beta_ratio,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.217217217217218
+theta_beta_ratio,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.26026026026026
+theta_beta_ratio,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+theta_beta_ratio,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,29.184184184184183
+theta_beta_ratio,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,24.61961961961962
+theta_beta_ratio,C3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,28.703703703703702
+theta_beta_ratio,C3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.42042042042042
+theta_beta_ratio,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.98098098098098
+theta_beta_ratio,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.654654654654657
+theta_beta_ratio,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,26.14114114114114
+theta_beta_ratio,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.576576576576578
+theta_beta_ratio,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,26.78178178178178
+theta_beta_ratio,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.375375375375377
+theta_beta_ratio,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,28.383383383383382
+theta_beta_ratio,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+theta_beta_ratio,Cz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,29.424424424424423
+theta_beta_ratio,Cz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,24.13913913913914
+theta_beta_ratio,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.37937937937938
+theta_beta_ratio,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.892892892892895
+theta_beta_ratio,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.65865865865866
+theta_beta_ratio,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.894894894894897
+theta_beta_ratio,T5,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.93993993993994
+theta_beta_ratio,T5,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+theta_beta_ratio,T4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.1021021021021
+theta_beta_ratio,T4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,24.6996996996997
+theta_beta_ratio,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,25.26026026026026
+theta_beta_ratio,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,25.26026026026026
+theta_beta_ratio,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.34234234234234
+theta_beta_ratio,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.6976976976977
+theta_beta_ratio,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,26.3013013013013
+theta_beta_ratio,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+theta_beta_ratio,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+theta_beta_ratio,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.293293293293296
+theta_beta_ratio,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.8988988988989
+theta_beta_ratio,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+theta_alpha_ratio,O1,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),46.16116116116116
+theta_alpha_ratio,O1,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),46.16116116116116
+theta_alpha_ratio,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.494494494494496
+theta_alpha_ratio,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,24.05905905905906
+theta_alpha_ratio,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.375375375375377
+theta_alpha_ratio,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.6976976976977
+theta_alpha_ratio,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.896896896896898
+theta_alpha_ratio,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.34034034034034
+theta_alpha_ratio,C3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.496496496496498
+theta_alpha_ratio,C3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,24.05905905905906
+theta_alpha_ratio,F3,Spectral,Inverse_Additive,Female,Statistical Stabilization,22.057057057057058
+theta_alpha_ratio,F3,Spectral,Inverse_Additive,Male,Statistical Stabilization,22.057057057057058
+theta_alpha_ratio,Fp2,Spectral,Inverse_Additive,Female,Statistical Stabilization,23.4984984984985
+theta_alpha_ratio,Fp2,Spectral,Inverse_Additive,Male,Statistical Stabilization,23.4984984984985
+theta_alpha_ratio,Cz,Spectral,Inverse_Additive,Female,Statistical Stabilization,23.41841841841842
+theta_alpha_ratio,Cz,Spectral,Inverse_Additive,Male,Statistical Stabilization,23.41841841841842
+theta_alpha_ratio,Fz,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.336336336336338
+theta_alpha_ratio,Fz,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.336336336336338
+theta_alpha_ratio,T5,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.334334334334336
+theta_alpha_ratio,T5,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.6976976976977
+theta_alpha_ratio,T4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.57857857857858
+theta_alpha_ratio,T4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.98098098098098
+theta_alpha_ratio,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,24.61961961961962
+theta_alpha_ratio,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,24.61961961961962
+theta_alpha_ratio,F8,Spectral,Inverse_Additive,Female,Statistical Stabilization,25.1001001001001
+theta_alpha_ratio,F8,Spectral,Inverse_Additive,Male,Statistical Stabilization,25.1001001001001
+theta_alpha_ratio,F7,Spectral,Inverse_Additive,Female,Statistical Stabilization,24.2992992992993
+theta_alpha_ratio,F7,Spectral,Inverse_Additive,Male,Statistical Stabilization,24.2992992992993
+theta_alpha_ratio,Fp1,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.496496496496498
+theta_alpha_ratio,Fp1,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.496496496496498
+spect_ent,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.576576576576578
+spect_ent,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.574574574574577
+spect_ent,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.496496496496498
+spect_ent,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.613613613613616
+spect_ent,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.656656656656658
+spect_ent,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.254254254254256
+spect_ent,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,21.736736736736738
+spect_ent,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,21.736736736736738
+spect_ent,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,24.6996996996997
+spect_ent,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,24.6996996996997
+spect_ent,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+spect_ent,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.734734734734737
+spect_ent,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.81881881881882
+spect_ent,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.096096096096097
+spect_ent,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.57857857857858
+spect_ent,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.375375375375377
+spect_ent,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.217217217217218
+spect_ent,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.055055055055057
+spect_ent,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.896896896896898
+spect_ent,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.974974974974977
+spect_ent,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.057057057057058
+spect_ent,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.213213213213216
+spect_ent,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.656656656656658
+spect_ent,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.414414414414416
+spect_ent,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.13913913913914
+spect_ent,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.217217217217218
+spect_ent,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,22.61761761761762
+spect_ent,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,22.61761761761762
+spect_ent,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.1001001001001
+spect_ent,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.1001001001001
+spect_ent,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.57857857857858
+spect_ent,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.535535535535537
+spect_ent,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.18018018018018
+spect_ent,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.217217217217218
+spect_ent,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.656656656656658
+spect_ent,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.933933933933936
+spect_ent,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.6976976976977
+spect_ent,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.773773773773776
+samp_ent,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.25825825825826
+samp_ent,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.295295295295297
+samp_ent,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.576576576576578
+samp_ent,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.49249249249249
+samp_ent,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.416416416416418
+samp_ent,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.892892892892895
+samp_ent,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.217217217217218
+samp_ent,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+samp_ent,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.53953953953954
+samp_ent,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.217217217217218
+samp_ent,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.4984984984985
+samp_ent,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.174174174174176
+samp_ent,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.13913913913914
+samp_ent,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.695695695695697
+samp_ent,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+samp_ent,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.295295295295297
+samp_ent,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+samp_ent,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.933933933933936
+samp_ent,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+samp_ent,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+samp_ent,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.17817817817818
+samp_ent,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.293293293293296
+samp_ent,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.736736736736738
+samp_ent,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.373373373373376
+samp_ent,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.0980980980981
+samp_ent,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.135135135135137
+samp_ent,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.6976976976977
+samp_ent,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.775775775775777
+samp_ent,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,23.0980980980981
+samp_ent,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,23.0980980980981
+samp_ent,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.81881881881882
+samp_ent,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.295295295295297
+samp_ent,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.58058058058058
+samp_ent,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+samp_ent,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.17817817817818
+samp_ent,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.055055055055057
+samp_ent,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.13913913913914
+samp_ent,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.814814814814817
+power_t-Gamma,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,10.765765765765765
+power_t-Gamma,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,7.162162162162162
+power_t-Gamma,C3,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),57.612612612612615
+power_t-Gamma,C3,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),57.612612612612615
+power_t-Delta,F7,Spectral,Inverse_Additive,Female,Statistical Stabilization,11.486486486486488
+power_t-Delta,F7,Spectral,Inverse_Additive,Male,Statistical Stabilization,11.486486486486488
+power_t-Broadband,Fz,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),35.590590590590594
+power_t-Broadband,Fz,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),35.590590590590594
+power_t-Beta,C3,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),60.17517517517518
+power_t-Beta,C3,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),60.17517517517518
+power_t-Beta,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,11.646646646646648
+power_t-Beta,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,5.16016016016016
+power_t-Beta,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,9.884884884884885
+power_t-Beta,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,8.283283283283284
+power_t-Alpha,Fz,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),49.92492492492492
+power_t-Alpha,Fz,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),51.686686686686684
+power_rel-Theta,O1,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.633633633633636
+power_rel-Theta,O1,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.633633633633636
+power_rel-Theta,C4,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),47.6026026026026
+power_rel-Theta,C4,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),47.6026026026026
+power_rel-Theta,F4,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),45.44044044044044
+power_rel-Theta,F4,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),39.194194194194196
+power_rel-Theta,F3,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),46.16116116116116
+power_rel-Theta,F3,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),38.473473473473476
+power_rel-Theta,T6,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),45.68068068068068
+power_rel-Theta,T6,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),38.153153153153156
+power_rel-Theta,F7,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),43.998998998999
+power_rel-Theta,F7,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),43.998998998999
+power_rel-Theta,O2,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.313313313313316
+power_rel-Theta,O2,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.313313313313316
+power_rel-Gamma,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.33233233233233
+power_rel-Gamma,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,15.25025025025025
+power_rel-Gamma,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.09009009009009
+power_rel-Gamma,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,10.605605605605605
+power_rel-Gamma,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.01001001001001
+power_rel-Gamma,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,10.205205205205205
+power_rel-Gamma,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.81081081081081
+power_rel-Gamma,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,12.527527527527528
+power_rel-Gamma,C3,Spectral,Inverse_Additive,Female,Statistical Stabilization,17.25225225225225
+power_rel-Gamma,C3,Spectral,Inverse_Additive,Male,Statistical Stabilization,17.25225225225225
+power_rel-Gamma,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,16.69169169169169
+power_rel-Gamma,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.008008008008009
+power_rel-Gamma,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.49249249249249
+power_rel-Gamma,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.96896896896897
+power_rel-Gamma,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,18.773773773773776
+power_rel-Gamma,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.76976976976977
+power_rel-Gamma,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,16.05105105105105
+power_rel-Gamma,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,12.287287287287288
+power_rel-Gamma,Cz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.81081081081081
+power_rel-Gamma,Cz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,11.566566566566568
+power_rel-Gamma,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.73073073073073
+power_rel-Gamma,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,11.006006006006006
+power_rel-Gamma,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.49049049049049
+power_rel-Gamma,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,12.527527527527528
+power_rel-Gamma,T4,Spectral,Inverse_Additive,Female,Statistical Stabilization,15.73073073073073
+power_rel-Gamma,T4,Spectral,Inverse_Additive,Male,Statistical Stabilization,15.73073073073073
+power_rel-Gamma,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,16.05105105105105
+power_rel-Gamma,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,16.05105105105105
+power_rel-Gamma,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.01201201201201
+power_rel-Gamma,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.68968968968969
+power_rel-Gamma,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.65265265265265
+power_rel-Gamma,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,15.17017017017017
+power_rel-Gamma,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,18.213213213213216
+power_rel-Gamma,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.80880880880881
+power_rel-Delta,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,26.38138138138138
+power_rel-Delta,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,28.303303303303302
+power_rel-Delta,P4,Spectral,Inverse_Additive,Female,Statistical Stabilization,27.902902902902902
+power_rel-Delta,P4,Spectral,Inverse_Additive,Male,Statistical Stabilization,27.902902902902902
+power_rel-Delta,P3,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.463463463463462
+power_rel-Delta,P3,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.463463463463462
+power_rel-Delta,C4,Spectral,Inverse_Additive,Female,Statistical Stabilization,27.74274274274274
+power_rel-Delta,C4,Spectral,Inverse_Additive,Male,Statistical Stabilization,27.74274274274274
+power_rel-Delta,C3,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.143143143143142
+power_rel-Delta,C3,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.143143143143142
+power_rel-Delta,F4,Spectral,Inverse_Additive,Female,Statistical Stabilization,27.982982982982982
+power_rel-Delta,F4,Spectral,Inverse_Additive,Male,Statistical Stabilization,27.982982982982982
+power_rel-Delta,F3,Spectral,Inverse_Additive,Female,Statistical Stabilization,26.7017017017017
+power_rel-Delta,F3,Spectral,Inverse_Additive,Male,Statistical Stabilization,26.7017017017017
+power_rel-Delta,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.18218218218218
+power_rel-Delta,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.58058058058058
+power_rel-Delta,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,26.86186186186186
+power_rel-Delta,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,28.863863863863862
+power_rel-Delta,Cz,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.303303303303302
+power_rel-Delta,Cz,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.303303303303302
+power_rel-Delta,Fz,Spectral,Inverse_Additive,Female,Statistical Stabilization,25.26026026026026
+power_rel-Delta,Fz,Spectral,Inverse_Additive,Male,Statistical Stabilization,25.26026026026026
+power_rel-Delta,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,26.78178178178178
+power_rel-Delta,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,28.943943943943943
+power_rel-Delta,T5,Spectral,Inverse_Interactive,Female,Statistical Stabilization,29.024024024024023
+power_rel-Delta,T5,Spectral,Inverse_Interactive,Male,Statistical Stabilization,30.545545545545544
+power_rel-Delta,T4,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.143143143143142
+power_rel-Delta,T4,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.143143143143142
+power_rel-Delta,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,29.424424424424423
+power_rel-Delta,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,29.424424424424423
+power_rel-Delta,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.982982982982982
+power_rel-Delta,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.7017017017017
+power_rel-Delta,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.74274274274274
+power_rel-Delta,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.46146146146146
+power_rel-Delta,O2,Spectral,Inverse_Additive,Female,Statistical Stabilization,27.66266266266266
+power_rel-Delta,O2,Spectral,Inverse_Additive,Male,Statistical Stabilization,27.66266266266266
+power_rel-Delta,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.26026026026026
+power_rel-Delta,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,23.4984984984985
+power_rel-Beta,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+power_rel-Beta,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.935935935935937
+power_rel-Beta,P4,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),56.491491491491495
+power_rel-Beta,P4,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),59.6946946946947
+power_rel-Beta,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.13913913913914
+power_rel-Beta,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.295295295295297
+power_rel-Beta,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.73873873873874
+power_rel-Beta,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.855855855855857
+power_rel-Beta,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.8988988988989
+power_rel-Beta,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.135135135135137
+power_rel-Beta,Pz,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),52.567567567567565
+power_rel-Beta,Pz,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),55.93093093093093
+power_rel-Beta,Cz,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),56.971971971971975
+power_rel-Beta,Cz,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),63.6986986986987
+power_rel-Beta,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+power_rel-Beta,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.174174174174176
+power_rel-Beta,T5,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),51.606606606606604
+power_rel-Beta,T5,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),54.809809809809806
+power_rel-Beta,T4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.42042042042042
+power_rel-Beta,T4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.45745745745746
+power_rel-Beta,T3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.98098098098098
+power_rel-Beta,T3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,23.81881881881882
+power_rel-Beta,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.81881881881882
+power_rel-Beta,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.375375375375377
+power_rel-Beta,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.05905905905906
+power_rel-Beta,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.176176176176178
+power_rel-Beta,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+power_rel-Beta,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+power_rel-Alpha,P3,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),52.487487487487485
+power_rel-Alpha,P3,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),50.48548548548548
+power_rel-Alpha,F4,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),44.7997997997998
+power_rel-Alpha,F4,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),44.7997997997998
+power_rel-Alpha,Fp2,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),45.28028028028028
+power_rel-Alpha,Fp2,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),47.44244244244244
+power_rel-Alpha,Cz,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),44.7997997997998
+power_rel-Alpha,Cz,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),45.44044044044044
+power_rel-Alpha,F7,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),47.04204204204204
+power_rel-Alpha,F7,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),47.04204204204204
+power_abs-Gamma,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,9.724724724724725
+power_abs-Gamma,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,6.361361361361361
+power_abs-Delta,F7,Spectral,Inverse_Additive,Female,Statistical Stabilization,11.006006006006006
+power_abs-Delta,F7,Spectral,Inverse_Additive,Male,Statistical Stabilization,11.006006006006006
+power_abs-Beta,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,13.008008008008009
+power_abs-Beta,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,10.765765765765765
+power_abs-Beta,C3,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),64.65965965965967
+power_abs-Beta,C3,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),64.65965965965967
+power_abs-Beta,Pz,Spectral,Inverse_Additive,Female,Statistical Stabilization,11.646646646646648
+power_abs-Beta,Pz,Spectral,Inverse_Additive,Male,Statistical Stabilization,11.646646646646648
+power_abs-Beta,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,11.726726726726728
+power_abs-Beta,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,5.48048048048048
+power_abs-Beta,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,9.964964964964965
+power_abs-Beta,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,8.283283283283284
+power_abs-Alpha,Fz,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),49.28428428428428
+power_abs-Alpha,Fz,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),49.6046046046046
+peak_alpha_freq,O1,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.631631631631635
+peak_alpha_freq,O1,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.631631631631635
+peak_alpha_freq,P4,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),40.55555555555556
+peak_alpha_freq,P4,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),40.55555555555556
+peak_alpha_freq,P3,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),43.43843843843844
+peak_alpha_freq,P3,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),37.032032032032035
+peak_alpha_freq,C4,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),40.15515515515516
+peak_alpha_freq,C4,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),40.15515515515516
+peak_alpha_freq,C3,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.713713713713716
+peak_alpha_freq,C3,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.713713713713716
+peak_alpha_freq,F4,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),37.912912912912915
+peak_alpha_freq,F4,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),37.912912912912915
+peak_alpha_freq,F3,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),37.192192192192195
+peak_alpha_freq,F3,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),37.192192192192195
+peak_alpha_freq,Fp2,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.633633633633636
+peak_alpha_freq,Fp2,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.633633633633636
+peak_alpha_freq,Pz,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),39.83483483483484
+peak_alpha_freq,Pz,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),39.83483483483484
+peak_alpha_freq,Cz,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.073073073073076
+peak_alpha_freq,Cz,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.073073073073076
+peak_alpha_freq,Fz,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),37.032032032032035
+peak_alpha_freq,Fz,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),37.032032032032035
+peak_alpha_freq,T6,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.471471471471475
+peak_alpha_freq,T6,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.471471471471475
+peak_alpha_freq,T5,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),39.75475475475476
+peak_alpha_freq,T5,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),34.54954954954955
+peak_alpha_freq,T4,Spectral,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),41.43643643643644
+peak_alpha_freq,T4,Spectral,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),36.311311311311314
+peak_alpha_freq,T3,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.953953953953956
+peak_alpha_freq,T3,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.953953953953956
+peak_alpha_freq,F8,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.073073073073076
+peak_alpha_freq,F8,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.073073073073076
+peak_alpha_freq,F7,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.473473473473476
+peak_alpha_freq,F7,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.473473473473476
+peak_alpha_freq,O2,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.391391391391394
+peak_alpha_freq,O2,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.391391391391394
+peak_alpha_freq,Fp1,Spectral,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),39.354354354354356
+peak_alpha_freq,Fp1,Spectral,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),39.354354354354356
+lziv,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+lziv,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.057057057057058
+lziv,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.2992992992993
+lziv,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.535535535535537
+lziv,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.05905905905906
+lziv,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.775775775775777
+lziv,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.77977977977978
+lziv,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.057057057057058
+lziv,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.06106106106106
+lziv,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.06106106106106
+lziv,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.18018018018018
+lziv,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.176176176176178
+lziv,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.66066066066066
+lziv,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.2972972972973
+lziv,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.66066066066066
+lziv,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+lziv,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.26026026026026
+lziv,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+lziv,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.18018018018018
+lziv,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.816816816816818
+lziv,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+lziv,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.375375375375377
+lziv,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+lziv,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.176176176176178
+lziv,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.66066066066066
+lziv,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+lziv,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+lziv,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+lziv,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.34034034034034
+lziv,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.34034034034034
+lziv,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.1001001001001
+lziv,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+lziv,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.3013013013013
+lziv,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.0980980980981
+lziv,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+lziv,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.736736736736738
+lziv,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.93993993993994
+lziv,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.855855855855857
+kurt_t-Theta,F8,Morphological,Inverse_Additive,Female,Statistical Stabilization,12.607607607607608
+kurt_t-Theta,F8,Morphological,Inverse_Additive,Male,Statistical Stabilization,12.607607607607608
+kurt_t-Gamma,O1,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.812812812812812
+kurt_t-Gamma,O1,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.812812812812812
+kurt_t-Gamma,P4,Morphological,Inverse_Additive,Female,Statistical Stabilization,15.33033033033033
+kurt_t-Gamma,P4,Morphological,Inverse_Additive,Male,Statistical Stabilization,15.33033033033033
+kurt_t-Gamma,P3,Morphological,Inverse_Additive,Female,Statistical Stabilization,19.414414414414416
+kurt_t-Gamma,P3,Morphological,Inverse_Additive,Male,Statistical Stabilization,19.414414414414416
+kurt_t-Gamma,C4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,17.41241241241241
+kurt_t-Gamma,C4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,14.04904904904905
+kurt_t-Gamma,C3,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.28928928928929
+kurt_t-Gamma,C3,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.28928928928929
+kurt_t-Gamma,F4,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.812812812812812
+kurt_t-Gamma,F4,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.812812812812812
+kurt_t-Gamma,F3,Morphological,Inverse_Additive,Female,Statistical Stabilization,15.41041041041041
+kurt_t-Gamma,F3,Morphological,Inverse_Additive,Male,Statistical Stabilization,15.41041041041041
+kurt_t-Gamma,Pz,Morphological,Inverse_Interactive,Female,Statistical Stabilization,14.52952952952953
+kurt_t-Gamma,Pz,Morphological,Inverse_Interactive,Male,Statistical Stabilization,17.49249249249249
+kurt_t-Gamma,Fz,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.68968968968969
+kurt_t-Gamma,Fz,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.68968968968969
+kurt_t-Gamma,T5,Morphological,Inverse_Additive,Female,Statistical Stabilization,16.45145145145145
+kurt_t-Gamma,T5,Morphological,Inverse_Additive,Male,Statistical Stabilization,16.45145145145145
+kurt_t-Gamma,T3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,19.334334334334336
+kurt_t-Gamma,T3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,13.008008008008009
+kurt_t-Gamma,F8,Morphological,Inverse_Interactive,Female,Statistical Stabilization,16.05105105105105
+kurt_t-Gamma,F8,Morphological,Inverse_Interactive,Male,Statistical Stabilization,13.488488488488489
+kurt_t-Gamma,F7,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.44944944944945
+kurt_t-Gamma,F7,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.44944944944945
+kurt_t-Gamma,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,16.69169169169169
+kurt_t-Gamma,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+kurt_t-Gamma,Fp1,Morphological,Inverse_Additive,Female,Statistical Stabilization,21.256256256256258
+kurt_t-Gamma,Fp1,Morphological,Inverse_Additive,Male,Statistical Stabilization,21.256256256256258
+kurt_t-Delta,F8,Morphological,Inverse_Additive,Female,Statistical Stabilization,8.363363363363364
+kurt_t-Delta,F8,Morphological,Inverse_Additive,Male,Statistical Stabilization,8.363363363363364
+kurt_t-Broadband,C3,Morphological,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),5.0
+kurt_t-Broadband,C3,Morphological,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),5.0
+kurt_t-Broadband,F4,Morphological,Inverse_Additive,Female,Statistical Stabilization,11.486486486486488
+kurt_t-Broadband,F4,Morphological,Inverse_Additive,Male,Statistical Stabilization,11.486486486486488
+kurt_t-Beta,P3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,8.363363363363364
+kurt_t-Beta,P3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,16.13113113113113
+kurt_t-Beta,T5,Morphological,Inverse_Interactive,Female,Statistical Stabilization,10.605605605605605
+kurt_t-Beta,T5,Morphological,Inverse_Interactive,Male,Statistical Stabilization,12.287287287287288
+kurt_t-Beta,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,9.404404404404405
+kurt_t-Beta,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,15.97097097097097
+kurt_t-Alpha,F4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,5.0
+kurt_t-Alpha,F4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,10.445445445445445
+katz_frac-Theta,Fz,Complexity,Inverse_Additive,Female,Statistical Stabilization,18.293293293293296
+katz_frac-Theta,Fz,Complexity,Inverse_Additive,Male,Statistical Stabilization,18.293293293293296
+katz_frac-Theta,F8,Complexity,Inverse_Additive,Female,Statistical Stabilization,18.293293293293296
+katz_frac-Theta,F8,Complexity,Inverse_Additive,Male,Statistical Stabilization,18.293293293293296
+katz_frac-Gamma,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.37737737737738
+katz_frac-Gamma,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.174174174174176
+katz_frac-Gamma,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.174174174174176
+katz_frac-Gamma,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,15.89089089089089
+katz_frac-Gamma,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,18.853853853853856
+katz_frac-Gamma,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,18.853853853853856
+katz_frac-Gamma,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,18.773773773773776
+katz_frac-Gamma,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,18.773773773773776
+katz_frac-Gamma,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.135135135135137
+katz_frac-Gamma,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,16.85185185185185
+katz_frac-Gamma,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.455455455455457
+katz_frac-Gamma,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,16.85185185185185
+katz_frac-Gamma,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.174174174174176
+katz_frac-Gamma,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,15.97097097097097
+katz_frac-Gamma,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.894894894894897
+katz_frac-Gamma,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.33233233233233
+katz_frac-Gamma,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,16.85185185185185
+katz_frac-Gamma,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,16.85185185185185
+katz_frac-Gamma,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,16.05105105105105
+katz_frac-Gamma,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,16.05105105105105
+katz_frac-Gamma,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.57257257257257
+katz_frac-Gamma,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,15.57057057057057
+katz_frac-Gamma,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.37737737737738
+katz_frac-Gamma,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.773773773773776
+katz_frac-Gamma,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.85785785785786
+katz_frac-Gamma,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.693693693693696
+katz_frac-Gamma,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.25825825825826
+katz_frac-Gamma,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.215215215215217
+katz_frac-Gamma,T3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.21921921921922
+katz_frac-Gamma,T3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.414414414414416
+katz_frac-Gamma,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.33833833833834
+katz_frac-Gamma,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.853853853853856
+katz_frac-Gamma,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.61761761761762
+katz_frac-Gamma,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.533533533533536
+katz_frac-Gamma,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,19.814814814814817
+katz_frac-Gamma,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,19.814814814814817
+katz_frac-Gamma,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,18.453453453453456
+katz_frac-Gamma,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,16.61161161161161
+katz_frac-Delta,Pz,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),45.44044044044044
+katz_frac-Delta,Pz,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),45.44044044044044
+katz_frac-Broadband,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+katz_frac-Broadband,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.215215215215217
+katz_frac-Broadband,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.45745745745746
+katz_frac-Broadband,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.533533533533536
+katz_frac-Broadband,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.656656656656658
+katz_frac-Broadband,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.533533533533536
+katz_frac-Broadband,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.17817817817818
+katz_frac-Broadband,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.974974974974977
+katz_frac-Broadband,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.65865865865866
+katz_frac-Broadband,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+katz_frac-Broadband,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+katz_frac-Broadband,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.853853853853856
+katz_frac-Broadband,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.4984984984985
+katz_frac-Broadband,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.814814814814817
+katz_frac-Broadband,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.736736736736738
+katz_frac-Broadband,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.133133133133136
+katz_frac-Broadband,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.53753753753754
+katz_frac-Broadband,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.094094094094096
+katz_frac-Broadband,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.016016016016017
+katz_frac-Broadband,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.41241241241241
+katz_frac-Broadband,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.217217217217218
+katz_frac-Broadband,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.053053053053056
+katz_frac-Broadband,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.45745745745746
+katz_frac-Broadband,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.574574574574577
+katz_frac-Broadband,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.73873873873874
+katz_frac-Broadband,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.935935935935937
+katz_frac-Broadband,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+katz_frac-Broadband,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.935935935935937
+katz_frac-Broadband,T3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+katz_frac-Broadband,T3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.976976976976978
+katz_frac-Broadband,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.8988988988989
+katz_frac-Broadband,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.455455455455457
+katz_frac-Broadband,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.77977977977978
+katz_frac-Broadband,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.096096096096097
+katz_frac-Broadband,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.217217217217218
+katz_frac-Broadband,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.974974974974977
+katz_frac-Broadband,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.775775775775777
+katz_frac-Broadband,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.972972972972975
+katz_frac-Beta,O1,Complexity,Inverse_Additive,Female,Statistical Stabilization,16.93193193193193
+katz_frac-Beta,O1,Complexity,Inverse_Additive,Male,Statistical Stabilization,16.93193193193193
+katz_frac-Beta,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,8.043043043043042
+katz_frac-Beta,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,8.043043043043042
+katz_frac-Beta,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.486486486486488
+katz_frac-Beta,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.486486486486488
+katz_frac-Beta,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.726726726726728
+katz_frac-Beta,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.726726726726728
+katz_frac-Beta,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.20920920920921
+katz_frac-Beta,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.20920920920921
+katz_frac-Beta,F4,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.248248248248249
+katz_frac-Beta,F4,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.248248248248249
+katz_frac-Beta,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.64864864864865
+katz_frac-Beta,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.64864864864865
+katz_frac-Beta,Fp2,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.60960960960961
+katz_frac-Beta,Fp2,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.60960960960961
+katz_frac-Beta,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.64864864864865
+katz_frac-Beta,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.64864864864865
+katz_frac-Beta,Fz,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.566566566566568
+katz_frac-Beta,Fz,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.566566566566568
+katz_frac-Beta,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.04904904904905
+katz_frac-Beta,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.04904904904905
+katz_frac-Beta,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,15.01001001001001
+katz_frac-Beta,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,15.01001001001001
+katz_frac-Beta,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.60960960960961
+katz_frac-Beta,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.60960960960961
+katz_frac-Beta,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,15.25025025025025
+katz_frac-Beta,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,15.25025025025025
+katz_frac-Beta,F8,Complexity,Inverse_Additive,Female,Statistical Stabilization,15.17017017017017
+katz_frac-Beta,F8,Complexity,Inverse_Additive,Male,Statistical Stabilization,15.17017017017017
+katz_frac-Beta,F7,Complexity,Inverse_Additive,Female,Statistical Stabilization,16.13113113113113
+katz_frac-Beta,F7,Complexity,Inverse_Additive,Male,Statistical Stabilization,16.13113113113113
+katz_frac-Beta,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,16.93193193193193
+katz_frac-Beta,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,16.93193193193193
+katz_frac-Beta,Fp1,Complexity,Inverse_Additive,Female,Statistical Stabilization,16.21121121121121
+katz_frac-Beta,Fp1,Complexity,Inverse_Additive,Male,Statistical Stabilization,16.21121121121121
+katz_frac-Alpha,O1,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),35.030030030030034
+katz_frac-Alpha,O1,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),35.030030030030034
+katz_frac-Alpha,P4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.151151151151154
+katz_frac-Alpha,P4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.151151151151154
+katz_frac-Alpha,P3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.631631631631635
+katz_frac-Alpha,P3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.631631631631635
+katz_frac-Alpha,C4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),34.46946946946947
+katz_frac-Alpha,C4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),34.46946946946947
+katz_frac-Alpha,C3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),35.750750750750754
+katz_frac-Alpha,C3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),35.750750750750754
+katz_frac-Alpha,F4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.071071071071074
+katz_frac-Alpha,F4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.071071071071074
+katz_frac-Alpha,F3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),35.830830830830834
+katz_frac-Alpha,F3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),35.830830830830834
+katz_frac-Alpha,Fp2,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.713713713713716
+katz_frac-Alpha,Fp2,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.713713713713716
+katz_frac-Alpha,Pz,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),37.032032032032035
+katz_frac-Alpha,Pz,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),40.15515515515516
+katz_frac-Alpha,Cz,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),35.750750750750754
+katz_frac-Alpha,Cz,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),35.750750750750754
+katz_frac-Alpha,T6,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),35.510510510510514
+katz_frac-Alpha,T6,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),35.510510510510514
+katz_frac-Alpha,T5,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),34.70970970970971
+katz_frac-Alpha,T5,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),34.70970970970971
+katz_frac-Alpha,T4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.311311311311314
+katz_frac-Alpha,T4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.311311311311314
+katz_frac-Alpha,T3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.231231231231234
+katz_frac-Alpha,T3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.231231231231234
+katz_frac-Alpha,F8,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),38.073073073073076
+katz_frac-Alpha,F8,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),38.073073073073076
+katz_frac-Alpha,F7,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),37.192192192192195
+katz_frac-Alpha,F7,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),37.192192192192195
+katz_frac-Alpha,O2,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),36.151151151151154
+katz_frac-Alpha,O2,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),36.151151151151154
+hurst_exp_h,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.57857857857858
+hurst_exp_h,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.74074074074074
+hurst_exp_h,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.66066066066066
+hurst_exp_h,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.66066066066066
+hurst_exp_h,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.62162162162162
+hurst_exp_h,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.62162162162162
+hurst_exp_h,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.74074074074074
+hurst_exp_h,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.74074074074074
+hurst_exp_h,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.38138138138138
+hurst_exp_h,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.38138138138138
+hurst_exp_h,F4,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.46146146146146
+hurst_exp_h,F4,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.46146146146146
+hurst_exp_h,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,24.93993993993994
+hurst_exp_h,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,24.93993993993994
+hurst_exp_h,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.3013013013013
+hurst_exp_h,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.4984984984985
+hurst_exp_h,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.66066066066066
+hurst_exp_h,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.18218218218218
+hurst_exp_h,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.46146146146146
+hurst_exp_h,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.46146146146146
+hurst_exp_h,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.93993993993994
+hurst_exp_h,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.45745745745746
+hurst_exp_h,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.77977977977978
+hurst_exp_h,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.38138138138138
+hurst_exp_h,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.58058058058058
+hurst_exp_h,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.18218218218218
+hurst_exp_h,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.22122122122122
+hurst_exp_h,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.22122122122122
+hurst_exp_h,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.94194194194194
+hurst_exp_h,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.94194194194194
+hurst_exp_h,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.18218218218218
+hurst_exp_h,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.77977977977978
+hurst_exp_h,F7,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.06106106106106
+hurst_exp_h,F7,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.06106106106106
+hurst_exp_h,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.5005005005005
+hurst_exp_h,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.5005005005005
+hurst_exp_h,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.2992992992993
+hurst_exp_h,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+hurst_exp_c,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.05105105105105
+hurst_exp_c,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.24024024024024
+hurst_exp_c,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,13.408408408408409
+hurst_exp_c,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.24024024024024
+hurst_exp_c,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.45145145145145
+hurst_exp_c,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.443443443443444
+hurst_exp_c,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,13.168168168168169
+hurst_exp_c,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+hurst_exp_c,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.93193193193193
+hurst_exp_c,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+hurst_exp_c,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.57057057057057
+hurst_exp_c,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.48048048048048
+hurst_exp_c,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.17017017017017
+hurst_exp_c,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+hjorth_mobility,O1,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.65865865865866
+hjorth_mobility,O1,Morphological,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+hjorth_mobility,P4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.25825825825826
+hjorth_mobility,P4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,19.654654654654657
+hjorth_mobility,P3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,22.85785785785786
+hjorth_mobility,P3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,19.574574574574577
+hjorth_mobility,C4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.4984984984985
+hjorth_mobility,C4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.775775775775777
+hjorth_mobility,C3,Morphological,Inverse_Additive,Female,Statistical Stabilization,24.21921921921922
+hjorth_mobility,C3,Morphological,Inverse_Additive,Male,Statistical Stabilization,24.21921921921922
+hjorth_mobility,F4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.81881881881882
+hjorth_mobility,F4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.215215215215217
+hjorth_mobility,F3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,24.2992992992993
+hjorth_mobility,F3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.935935935935937
+hjorth_mobility,Fp2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,24.13913913913914
+hjorth_mobility,Fp2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.775775775775777
+hjorth_mobility,Pz,Morphological,Inverse_Interactive,Female,Statistical Stabilization,24.05905905905906
+hjorth_mobility,Pz,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.535535535535537
+hjorth_mobility,Cz,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+hjorth_mobility,Cz,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.615615615615617
+hjorth_mobility,Fz,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.0980980980981
+hjorth_mobility,Fz,Morphological,Inverse_Interactive,Male,Statistical Stabilization,19.174174174174176
+hjorth_mobility,T6,Morphological,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+hjorth_mobility,T6,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.375375375375377
+hjorth_mobility,T5,Morphological,Inverse_Interactive,Female,Statistical Stabilization,24.21921921921922
+hjorth_mobility,T5,Morphological,Inverse_Interactive,Male,Statistical Stabilization,21.736736736736738
+hjorth_mobility,T4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.25825825825826
+hjorth_mobility,T4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,21.416416416416418
+hjorth_mobility,T3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+hjorth_mobility,T3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,22.2972972972973
+hjorth_mobility,F8,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.73873873873874
+hjorth_mobility,F8,Morphological,Inverse_Interactive,Male,Statistical Stabilization,20.535535535535537
+hjorth_mobility,F7,Morphological,Inverse_Interactive,Female,Statistical Stabilization,24.53953953953954
+hjorth_mobility,F7,Morphological,Inverse_Interactive,Male,Statistical Stabilization,21.496496496496498
+hjorth_mobility,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.81881881881882
+hjorth_mobility,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,21.016016016016017
+hjorth_mobility,Fp1,Morphological,Inverse_Interactive,Female,Statistical Stabilization,23.17817817817818
+hjorth_mobility,Fp1,Morphological,Inverse_Interactive,Male,Statistical Stabilization,19.814814814814817
+hjorth_complexity,O1,Morphological,Inverse_Additive,Female,Statistical Stabilization,27.982982982982982
+hjorth_complexity,O1,Morphological,Inverse_Additive,Male,Statistical Stabilization,27.982982982982982
+hjorth_complexity,P4,Morphological,Inverse_Additive,Female,Statistical Stabilization,29.184184184184183
+hjorth_complexity,P4,Morphological,Inverse_Additive,Male,Statistical Stabilization,29.184184184184183
+hjorth_complexity,P3,Morphological,Inverse_Additive,Female,Statistical Stabilization,29.664664664664663
+hjorth_complexity,P3,Morphological,Inverse_Additive,Male,Statistical Stabilization,29.664664664664663
+hjorth_complexity,C4,Morphological,Inverse_Additive,Female,Statistical Stabilization,29.664664664664663
+hjorth_complexity,C4,Morphological,Inverse_Additive,Male,Statistical Stabilization,29.664664664664663
+hjorth_complexity,C3,Morphological,Inverse_Additive,Female,Statistical Stabilization,29.984984984984983
+hjorth_complexity,C3,Morphological,Inverse_Additive,Male,Statistical Stabilization,29.984984984984983
+hjorth_complexity,F4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,30.625625625625624
+hjorth_complexity,F4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,26.7017017017017
+hjorth_complexity,F3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,29.344344344344343
+hjorth_complexity,F3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,25.98098098098098
+hjorth_complexity,Fp2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,29.184184184184183
+hjorth_complexity,Fp2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,25.34034034034034
+hjorth_complexity,Pz,Morphological,Inverse_Additive,Female,Statistical Stabilization,29.744744744744743
+hjorth_complexity,Pz,Morphological,Inverse_Additive,Male,Statistical Stabilization,29.744744744744743
+hjorth_complexity,Cz,Morphological,Inverse_Interactive,Female,Statistical Stabilization,31.346346346346348
+hjorth_complexity,Cz,Morphological,Inverse_Interactive,Male,Statistical Stabilization,28.383383383383382
+hjorth_complexity,Fz,Morphological,Inverse_Interactive,Female,Statistical Stabilization,27.34234234234234
+hjorth_complexity,Fz,Morphological,Inverse_Interactive,Male,Statistical Stabilization,23.01801801801802
+hjorth_complexity,T6,Morphological,Inverse_Additive,Female,Statistical Stabilization,28.383383383383382
+hjorth_complexity,T6,Morphological,Inverse_Additive,Male,Statistical Stabilization,28.383383383383382
+hjorth_complexity,T5,Morphological,Inverse_Additive,Female,Statistical Stabilization,30.065065065065063
+hjorth_complexity,T5,Morphological,Inverse_Additive,Male,Statistical Stabilization,30.065065065065063
+hjorth_complexity,T4,Morphological,Inverse_Additive,Female,Statistical Stabilization,29.264264264264263
+hjorth_complexity,T4,Morphological,Inverse_Additive,Male,Statistical Stabilization,29.264264264264263
+hjorth_complexity,T3,Morphological,Inverse_Additive,Female,Statistical Stabilization,30.065065065065063
+hjorth_complexity,T3,Morphological,Inverse_Additive,Male,Statistical Stabilization,30.065065065065063
+hjorth_complexity,F8,Morphological,Inverse_Interactive,Female,Statistical Stabilization,30.465465465465464
+hjorth_complexity,F8,Morphological,Inverse_Interactive,Male,Statistical Stabilization,25.98098098098098
+hjorth_complexity,F7,Morphological,Inverse_Interactive,Female,Statistical Stabilization,30.305305305305303
+hjorth_complexity,F7,Morphological,Inverse_Interactive,Male,Statistical Stabilization,25.9009009009009
+hjorth_complexity,O2,Morphological,Inverse_Additive,Female,Statistical Stabilization,28.463463463463462
+hjorth_complexity,O2,Morphological,Inverse_Additive,Male,Statistical Stabilization,28.463463463463462
+hjorth_complexity,Fp1,Morphological,Inverse_Interactive,Female,Statistical Stabilization,27.26226226226226
+hjorth_complexity,Fp1,Morphological,Inverse_Interactive,Male,Statistical Stabilization,22.61761761761762
+hjorth_activity,C3,Morphological,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),43.43843843843844
+hjorth_activity,C3,Morphological,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),43.43843843843844
+higuchi_frac-Theta,F3,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),80.67567567567568
+higuchi_frac-Theta,F3,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),80.91591591591592
+higuchi_frac-Theta,Cz,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),61.53653653653654
+higuchi_frac-Theta,Cz,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),68.42342342342343
+higuchi_frac-Theta,T5,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),85.0
+higuchi_frac-Theta,T5,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),85.0
+higuchi_frac-Theta,F8,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),62.57757757757758
+higuchi_frac-Theta,F8,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),62.57757757757758
+higuchi_frac-Theta,F7,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),70.90590590590591
+higuchi_frac-Theta,F7,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),70.90590590590591
+higuchi_frac-Gamma,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,12.847847847847849
+higuchi_frac-Gamma,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.283283283283284
+higuchi_frac-Gamma,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.406406406406406
+higuchi_frac-Gamma,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.406406406406406
+higuchi_frac-Gamma,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,12.927927927927929
+higuchi_frac-Gamma,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,12.927927927927929
+higuchi_frac-Gamma,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,13.488488488488489
+higuchi_frac-Gamma,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,10.125125125125125
+higuchi_frac-Gamma,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.088088088088089
+higuchi_frac-Gamma,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.088088088088089
+higuchi_frac-Gamma,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,12.127127127127128
+higuchi_frac-Gamma,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,7.962962962962963
+higuchi_frac-Gamma,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,13.64864864864865
+higuchi_frac-Gamma,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,10.125125125125125
+higuchi_frac-Gamma,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.646646646646648
+higuchi_frac-Gamma,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.646646646646648
+higuchi_frac-Gamma,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,12.687687687687689
+higuchi_frac-Gamma,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,7.962962962962963
+higuchi_frac-Gamma,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,12.927927927927929
+higuchi_frac-Gamma,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,9.084084084084084
+higuchi_frac-Gamma,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,12.687687687687689
+higuchi_frac-Gamma,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,12.687687687687689
+higuchi_frac-Delta,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,20.455455455455457
+higuchi_frac-Delta,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,20.455455455455457
+higuchi_frac-Delta,Cz,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),48.88388388388388
+higuchi_frac-Delta,Cz,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),53.928928928928926
+higuchi_frac-Delta,Fz,Complexity,Inverse_Additive,Female,Statistical Stabilization,20.215215215215217
+higuchi_frac-Delta,Fz,Complexity,Inverse_Additive,Male,Statistical Stabilization,20.215215215215217
+higuchi_frac-Delta,F8,Complexity,Inverse_Additive,Female,Statistical Stabilization,20.535535535535537
+higuchi_frac-Delta,F8,Complexity,Inverse_Additive,Male,Statistical Stabilization,20.535535535535537
+higuchi_frac-Delta,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.974974974974977
+higuchi_frac-Delta,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.613613613613616
+higuchi_frac-Broadband,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.654654654654657
+higuchi_frac-Broadband,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,14.12912912912913
+higuchi_frac-Broadband,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,18.373373373373376
+higuchi_frac-Broadband,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.086086086086086
+higuchi_frac-Broadband,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,18.133133133133136
+higuchi_frac-Broadband,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.166166166166166
+higuchi_frac-Broadband,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,18.773773773773776
+higuchi_frac-Broadband,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.927927927927929
+higuchi_frac-Broadband,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.016016016016017
+higuchi_frac-Broadband,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.17217217217217
+higuchi_frac-Broadband,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,18.053053053053056
+higuchi_frac-Broadband,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.726726726726728
+higuchi_frac-Broadband,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.814814814814817
+higuchi_frac-Broadband,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,14.20920920920921
+higuchi_frac-Broadband,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.574574574574577
+higuchi_frac-Broadband,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.72872872872873
+higuchi_frac-Broadband,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.775775775775777
+higuchi_frac-Broadband,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.248248248248249
+higuchi_frac-Broadband,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.215215215215217
+higuchi_frac-Broadband,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.96896896896897
+higuchi_frac-Broadband,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.254254254254256
+higuchi_frac-Broadband,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.607607607607608
+higuchi_frac-Broadband,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.812812812812812
+higuchi_frac-Broadband,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.166166166166166
+higuchi_frac-Broadband,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.174174174174176
+higuchi_frac-Broadband,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.927927927927929
+higuchi_frac-Broadband,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.25225225225225
+higuchi_frac-Broadband,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.408408408408409
+higuchi_frac-Broadband,T3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.972972972972975
+higuchi_frac-Broadband,T3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,14.52952952952953
+higuchi_frac-Broadband,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.25225225225225
+higuchi_frac-Broadband,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.207207207207208
+higuchi_frac-Broadband,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.414414414414416
+higuchi_frac-Broadband,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,14.44944944944945
+higuchi_frac-Broadband,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.414414414414416
+higuchi_frac-Broadband,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.72872872872873
+higuchi_frac-Broadband,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.135135135135137
+higuchi_frac-Broadband,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,14.28928928928929
+higuchi_frac-Beta,P4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),55.21021021021021
+higuchi_frac-Beta,P4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),55.21021021021021
+higuchi_frac-Beta,C3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),63.37837837837838
+higuchi_frac-Beta,C3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),63.37837837837838
+higuchi_frac-Beta,Pz,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),53.448448448448445
+higuchi_frac-Beta,Pz,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),69.86486486486487
+higuchi_frac-Beta,Fz,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),84.11911911911912
+higuchi_frac-Beta,Fz,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),84.11911911911912
+higuchi_frac-Beta,T3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),53.048048048048045
+higuchi_frac-Beta,T3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),53.048048048048045
+higuchi_frac-Beta,Fp1,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),85.0
+higuchi_frac-Beta,Fp1,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),11.406406406406406
+higuchi_frac-Alpha,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.812812812812812
+higuchi_frac-Alpha,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.123123123123122
+higuchi_frac-Alpha,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,18.373373373373376
+higuchi_frac-Alpha,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.523523523523524
+higuchi_frac-Alpha,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.65265265265265
+higuchi_frac-Alpha,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,7.002002002002002
+higuchi_frac-Alpha,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.494494494494496
+higuchi_frac-Alpha,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,10.605605605605605
+higuchi_frac-Alpha,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.094094094094096
+higuchi_frac-Alpha,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.767767767767769
+higuchi_frac-Alpha,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.33033033033033
+higuchi_frac-Alpha,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+higuchi_frac-Alpha,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.65065065065065
+higuchi_frac-Alpha,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.4004004004004
+higuchi_frac-Alpha,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.05105105105105
+higuchi_frac-Alpha,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+higuchi_frac-Alpha,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,19.574574574574577
+higuchi_frac-Alpha,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.566566566566568
+higuchi_frac-Alpha,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.25225225225225
+higuchi_frac-Alpha,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,9.564564564564565
+higuchi_frac-Alpha,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,14.36936936936937
+higuchi_frac-Alpha,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,6.121121121121121
+higuchi_frac-Alpha,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.81081081081081
+higuchi_frac-Alpha,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+higuchi_frac-Alpha,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.01201201201201
+higuchi_frac-Alpha,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.960960960960961
+higuchi_frac-Alpha,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.73273273273273
+higuchi_frac-Alpha,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.283283283283284
+higuchi_frac-Alpha,T3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.01201201201201
+higuchi_frac-Alpha,T3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,7.642642642642643
+higuchi_frac-Alpha,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.57057057057057
+higuchi_frac-Alpha,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.4004004004004
+higuchi_frac-Alpha,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.33233233233233
+higuchi_frac-Alpha,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,7.162162162162162
+higuchi_frac-Alpha,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.73073073073073
+higuchi_frac-Alpha,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.32032032032032
+env_std-Gamma,P4,Morphological,Inverse_Additive,Female,Statistical Stabilization,11.326326326326326
+env_std-Gamma,P4,Morphological,Inverse_Additive,Male,Statistical Stabilization,11.326326326326326
+env_std-Gamma,P3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,13.88888888888889
+env_std-Gamma,P3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,8.683683683683684
+env_std-Gamma,F3,Morphological,Inverse_Additive,Female,Statistical Stabilization,13.008008008008009
+env_std-Gamma,F3,Morphological,Inverse_Additive,Male,Statistical Stabilization,13.008008008008009
+env_std-Gamma,Cz,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.84984984984985
+env_std-Gamma,Cz,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.84984984984985
+env_std-Gamma,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,14.36936936936937
+env_std-Gamma,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,11.326326326326326
+env_std-Delta,O1,Morphological,Inverse_Additive,Female,Statistical Stabilization,18.213213213213216
+env_std-Delta,O1,Morphological,Inverse_Additive,Male,Statistical Stabilization,18.213213213213216
+env_std-Delta,T5,Morphological,Inverse_Additive,Female,Statistical Stabilization,18.533533533533536
+env_std-Delta,T5,Morphological,Inverse_Additive,Male,Statistical Stabilization,18.533533533533536
+env_std-Delta,T4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,14.84984984984985
+env_std-Delta,T4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,18.773773773773776
+env_std-Delta,F8,Morphological,Inverse_Additive,Female,Statistical Stabilization,10.765765765765765
+env_std-Delta,F8,Morphological,Inverse_Additive,Male,Statistical Stabilization,10.765765765765765
+env_std-Delta,F7,Morphological,Inverse_Additive,Female,Statistical Stabilization,13.088088088088089
+env_std-Delta,F7,Morphological,Inverse_Additive,Male,Statistical Stabilization,13.088088088088089
+env_std-Delta,Fp1,Morphological,Inverse_Interactive,Female,Statistical Stabilization,13.64864864864865
+env_std-Delta,Fp1,Morphological,Inverse_Interactive,Male,Statistical Stabilization,8.443443443443444
+env_std-Broadband,F7,Morphological,Inverse_Additive,Female,Statistical Stabilization,5.16016016016016
+env_std-Broadband,F7,Morphological,Inverse_Additive,Male,Statistical Stabilization,5.16016016016016
+env_std-Beta,P4,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.01201201201201
+env_std-Beta,P4,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.01201201201201
+env_std-Beta,P3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,18.933933933933936
+env_std-Beta,P3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,15.01001001001001
+env_std-Beta,C4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,18.453453453453456
+env_std-Beta,C4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,15.25025025025025
+env_std-Beta,F3,Morphological,Inverse_Additive,Female,Statistical Stabilization,15.65065065065065
+env_std-Beta,F3,Morphological,Inverse_Additive,Male,Statistical Stabilization,15.65065065065065
+env_std-Beta,Pz,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.892892892892895
+env_std-Beta,Pz,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.892892892892895
+env_std-Beta,Cz,Morphological,Inverse_Additive,Female,Statistical Stabilization,19.174174174174176
+env_std-Beta,Cz,Morphological,Inverse_Additive,Male,Statistical Stabilization,19.174174174174176
+env_std-Beta,T5,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.17217217217217
+env_std-Beta,T5,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.17217217217217
+env_std-Beta,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,16.37137137137137
+env_std-Beta,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,13.168168168168169
+env_mean-Gamma,P4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,14.04904904904905
+env_mean-Gamma,P4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,10.365365365365365
+env_mean-Gamma,P3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,15.57057057057057
+env_mean-Gamma,P3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,10.125125125125125
+env_mean-Gamma,C4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,14.76976976976977
+env_mean-Gamma,C4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,10.765765765765765
+env_mean-Gamma,F3,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.36936936936937
+env_mean-Gamma,F3,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.36936936936937
+env_mean-Gamma,Pz,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.84984984984985
+env_mean-Gamma,Pz,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.84984984984985
+env_mean-Gamma,Cz,Morphological,Inverse_Additive,Female,Statistical Stabilization,15.65065065065065
+env_mean-Gamma,Cz,Morphological,Inverse_Additive,Male,Statistical Stabilization,15.65065065065065
+env_mean-Gamma,T6,Morphological,Inverse_Interactive,Female,Statistical Stabilization,15.41041041041041
+env_mean-Gamma,T6,Morphological,Inverse_Interactive,Male,Statistical Stabilization,8.763763763763764
+env_mean-Gamma,T5,Morphological,Inverse_Interactive,Female,Statistical Stabilization,16.05105105105105
+env_mean-Gamma,T5,Morphological,Inverse_Interactive,Male,Statistical Stabilization,13.80880880880881
+env_mean-Gamma,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,16.13113113113113
+env_mean-Gamma,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,13.008008008008009
+env_mean-Delta,O1,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.25225225225225
+env_mean-Delta,O1,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.25225225225225
+env_mean-Delta,F7,Morphological,Inverse_Additive,Female,Statistical Stabilization,10.765765765765765
+env_mean-Delta,F7,Morphological,Inverse_Additive,Male,Statistical Stabilization,10.765765765765765
+env_mean-Beta,P4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,17.57257257257257
+env_mean-Beta,P4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,15.33033033033033
+env_mean-Beta,P3,Morphological,Inverse_Interactive,Female,Statistical Stabilization,18.933933933933936
+env_mean-Beta,P3,Morphological,Inverse_Interactive,Male,Statistical Stabilization,15.17017017017017
+env_mean-Beta,C4,Morphological,Inverse_Interactive,Female,Statistical Stabilization,18.373373373373376
+env_mean-Beta,C4,Morphological,Inverse_Interactive,Male,Statistical Stabilization,15.09009009009009
+env_mean-Beta,Pz,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.972972972972975
+env_mean-Beta,Pz,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.972972972972975
+env_mean-Beta,Fz,Morphological,Inverse_Additive,Female,Statistical Stabilization,15.25025025025025
+env_mean-Beta,Fz,Morphological,Inverse_Additive,Male,Statistical Stabilization,15.25025025025025
+env_mean-Beta,T6,Morphological,Inverse_Interactive,Female,Statistical Stabilization,17.17217217217217
+env_mean-Beta,T6,Morphological,Inverse_Interactive,Male,Statistical Stabilization,12.287287287287288
+env_mean-Beta,T5,Morphological,Inverse_Additive,Female,Statistical Stabilization,17.57257257257257
+env_mean-Beta,T5,Morphological,Inverse_Additive,Male,Statistical Stabilization,17.57257257257257
+env_mean-Beta,O2,Morphological,Inverse_Interactive,Female,Statistical Stabilization,16.53153153153153
+env_mean-Beta,O2,Morphological,Inverse_Interactive,Male,Statistical Stabilization,13.80880880880881
+detrend_fluc-Theta,P3,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),84.83983983983984
+detrend_fluc-Theta,P3,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),85.0
+detrend_fluc-Theta,Fp2,Complexity,Inverse_Additive,Female,Statistical Stabilization,21.496496496496498
+detrend_fluc-Theta,Fp2,Complexity,Inverse_Additive,Male,Statistical Stabilization,21.496496496496498
+detrend_fluc-Theta,F7,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),65.70070070070071
+detrend_fluc-Theta,F7,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),65.70070070070071
+detrend_fluc-Gamma,O1,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.84984984984985
+detrend_fluc-Gamma,O1,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.84984984984985
+detrend_fluc-Gamma,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,13.168168168168169
+detrend_fluc-Gamma,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,9.964964964964965
+detrend_fluc-Gamma,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,11.886886886886888
+detrend_fluc-Gamma,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.043043043043042
+detrend_fluc-Gamma,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.726726726726728
+detrend_fluc-Gamma,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.726726726726728
+detrend_fluc-Gamma,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.568568568568569
+detrend_fluc-Gamma,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.568568568568569
+detrend_fluc-Gamma,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.45145145145145
+detrend_fluc-Gamma,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.367367367367368
+detrend_fluc-Gamma,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.41241241241241
+detrend_fluc-Gamma,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.72872872872873
+detrend_fluc-Gamma,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.53153153153153
+detrend_fluc-Gamma,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.328328328328329
+detrend_fluc-Gamma,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,14.60960960960961
+detrend_fluc-Gamma,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,10.365365365365365
+detrend_fluc-Gamma,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,13.088088088088089
+detrend_fluc-Gamma,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,8.203203203203202
+detrend_fluc-Gamma,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,16.29129129129129
+detrend_fluc-Gamma,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,12.047047047047048
+detrend_fluc-Gamma,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,12.207207207207208
+detrend_fluc-Gamma,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,12.207207207207208
+detrend_fluc-Gamma,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,12.927927927927929
+detrend_fluc-Gamma,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,12.927927927927929
+detrend_fluc-Gamma,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.168168168168169
+detrend_fluc-Gamma,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.168168168168169
+detrend_fluc-Gamma,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,11.806806806806808
+detrend_fluc-Gamma,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,11.806806806806808
+detrend_fluc-Gamma,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,15.25025025025025
+detrend_fluc-Gamma,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.966966966966968
+detrend_fluc-Gamma,F7,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.04904904904905
+detrend_fluc-Gamma,F7,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.04904904904905
+detrend_fluc-Gamma,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,14.44944944944945
+detrend_fluc-Gamma,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,14.44944944944945
+detrend_fluc-Delta,P3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),53.528528528528525
+detrend_fluc-Delta,P3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),53.528528528528525
+detrend_fluc-Delta,Pz,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),47.04204204204204
+detrend_fluc-Delta,Pz,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),56.411411411411414
+detrend_fluc-Broadband,O1,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.943943943943943
+detrend_fluc-Broadband,O1,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.943943943943943
+detrend_fluc-Broadband,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.664664664664663
+detrend_fluc-Broadband,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.664664664664663
+detrend_fluc-Broadband,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.744744744744743
+detrend_fluc-Broadband,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.744744744744743
+detrend_fluc-Broadband,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.184184184184183
+detrend_fluc-Broadband,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.184184184184183
+detrend_fluc-Broadband,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.504504504504503
+detrend_fluc-Broadband,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.504504504504503
+detrend_fluc-Broadband,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.744744744744743
+detrend_fluc-Broadband,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.42242242242242
+detrend_fluc-Broadband,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.543543543543542
+detrend_fluc-Broadband,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.3013013013013
+detrend_fluc-Broadband,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.982982982982982
+detrend_fluc-Broadband,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.26026026026026
+detrend_fluc-Broadband,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.744744744744743
+detrend_fluc-Broadband,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.744744744744743
+detrend_fluc-Broadband,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,30.705705705705707
+detrend_fluc-Broadband,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,28.863863863863862
+detrend_fluc-Broadband,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.42242242242242
+detrend_fluc-Broadband,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.85985985985986
+detrend_fluc-Broadband,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.584584584584583
+detrend_fluc-Broadband,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.584584584584583
+detrend_fluc-Broadband,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,30.865865865865867
+detrend_fluc-Broadband,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,30.865865865865867
+detrend_fluc-Broadband,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.024024024024023
+detrend_fluc-Broadband,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.024024024024023
+detrend_fluc-Broadband,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.664664664664663
+detrend_fluc-Broadband,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.664664664664663
+detrend_fluc-Broadband,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.943943943943943
+detrend_fluc-Broadband,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.3013013013013
+detrend_fluc-Broadband,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.703703703703702
+detrend_fluc-Broadband,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.46146146146146
+detrend_fluc-Broadband,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.504504504504503
+detrend_fluc-Broadband,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.504504504504503
+detrend_fluc-Broadband,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.98098098098098
+detrend_fluc-Broadband,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.0980980980981
+detrend_fluc-Beta,P4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),60.97597597597598
+detrend_fluc-Beta,P4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),60.97597597597598
+detrend_fluc-Beta,P3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),55.21021021021021
+detrend_fluc-Beta,P3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),55.21021021021021
+detrend_fluc-Beta,C4,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),23.65865865865866
+detrend_fluc-Beta,C4,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),23.65865865865866
+detrend_fluc-Beta,C3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),71.70670670670671
+detrend_fluc-Beta,C3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),71.70670670670671
+detrend_fluc-Beta,F3,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),5.0
+detrend_fluc-Beta,F3,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),5.0
+detrend_fluc-Beta,Fz,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),85.0
+detrend_fluc-Beta,Fz,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),85.0
+detrend_fluc-Beta,O2,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),63.21821821821822
+detrend_fluc-Beta,O2,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),63.21821821821822
+detrend_fluc-Alpha,O1,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),41.03603603603604
+detrend_fluc-Alpha,O1,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),36.151151151151154
+detrend_fluc-Alpha,C4,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),44.95995995995996
+detrend_fluc-Alpha,C4,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),40.47547547547548
+detrend_fluc-Alpha,F4,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),41.35635635635636
+detrend_fluc-Alpha,F4,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),36.071071071071074
+detrend_fluc-Alpha,F3,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),41.91691691691692
+detrend_fluc-Alpha,F3,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),37.192192192192195
+detrend_fluc-Alpha,Fp2,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),42.47747747747748
+detrend_fluc-Alpha,Fp2,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),37.432432432432435
+detrend_fluc-Alpha,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,17.972972972972975
+detrend_fluc-Alpha,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,13.408408408408409
+detrend_fluc-Alpha,T6,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),40.7957957957958
+detrend_fluc-Alpha,T6,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),35.430430430430434
+detrend_fluc-Alpha,T4,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),43.75875875875876
+detrend_fluc-Alpha,T4,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),39.194194194194196
+detrend_fluc-Alpha,T3,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),44.15915915915916
+detrend_fluc-Alpha,T3,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),38.633633633633636
+detrend_fluc-Alpha,F8,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),40.07507507507508
+detrend_fluc-Alpha,F8,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),40.07507507507508
+detrend_fluc-Alpha,F7,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),39.83483483483484
+detrend_fluc-Alpha,F7,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),39.83483483483484
+detrend_fluc-Alpha,O2,Complexity,Quadratic_Interactive,Female,Reversal (Inc to Dec / Dec to Inc),40.63563563563564
+detrend_fluc-Alpha,O2,Complexity,Quadratic_Interactive,Male,Reversal (Inc to Dec / Dec to Inc),36.151151151151154
+detrend_fluc-Alpha,Fp1,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),40.95595595595596
+detrend_fluc-Alpha,Fp1,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),40.95595595595596
+delta_beta_ratio,O1,Spectral,Inverse_Additive,Female,Statistical Stabilization,30.465465465465464
+delta_beta_ratio,O1,Spectral,Inverse_Additive,Male,Statistical Stabilization,30.465465465465464
+delta_beta_ratio,P4,Spectral,Inverse_Additive,Female,Statistical Stabilization,29.264264264264263
+delta_beta_ratio,P4,Spectral,Inverse_Additive,Male,Statistical Stabilization,29.264264264264263
+delta_beta_ratio,P3,Spectral,Inverse_Additive,Female,Statistical Stabilization,29.584584584584583
+delta_beta_ratio,P3,Spectral,Inverse_Additive,Male,Statistical Stabilization,29.584584584584583
+delta_beta_ratio,C4,Spectral,Inverse_Additive,Female,Statistical Stabilization,29.664664664664663
+delta_beta_ratio,C4,Spectral,Inverse_Additive,Male,Statistical Stabilization,29.664664664664663
+delta_beta_ratio,C3,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.703703703703702
+delta_beta_ratio,C3,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.703703703703702
+delta_beta_ratio,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,28.223223223223222
+delta_beta_ratio,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+delta_beta_ratio,F3,Spectral,Inverse_Additive,Female,Statistical Stabilization,24.93993993993994
+delta_beta_ratio,F3,Spectral,Inverse_Additive,Male,Statistical Stabilization,24.93993993993994
+delta_beta_ratio,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,25.82082082082082
+delta_beta_ratio,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.974974974974977
+delta_beta_ratio,Pz,Spectral,Inverse_Additive,Female,Statistical Stabilization,31.266266266266268
+delta_beta_ratio,Pz,Spectral,Inverse_Additive,Male,Statistical Stabilization,31.266266266266268
+delta_beta_ratio,Cz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.34234234234234
+delta_beta_ratio,Cz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.576576576576578
+delta_beta_ratio,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.53953953953954
+delta_beta_ratio,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.213213213213216
+delta_beta_ratio,T6,Spectral,Inverse_Additive,Female,Statistical Stabilization,29.504504504504503
+delta_beta_ratio,T6,Spectral,Inverse_Additive,Male,Statistical Stabilization,29.504504504504503
+delta_beta_ratio,T5,Spectral,Inverse_Additive,Female,Statistical Stabilization,29.744744744744743
+delta_beta_ratio,T5,Spectral,Inverse_Additive,Male,Statistical Stabilization,29.744744744744743
+delta_beta_ratio,T4,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.303303303303302
+delta_beta_ratio,T4,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.303303303303302
+delta_beta_ratio,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,28.783783783783782
+delta_beta_ratio,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,28.783783783783782
+delta_beta_ratio,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,28.143143143143142
+delta_beta_ratio,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,23.57857857857858
+delta_beta_ratio,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,27.26226226226226
+delta_beta_ratio,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.61761761761762
+delta_beta_ratio,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,31.266266266266268
+delta_beta_ratio,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,28.943943943943943
+delta_beta_ratio,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.05905905905906
+delta_beta_ratio,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.73273273273273
+delta_alpha_ratio,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.654654654654657
+delta_alpha_ratio,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,24.77977977977978
+delta_alpha_ratio,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.057057057057058
+delta_alpha_ratio,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.06106106106106
+delta_alpha_ratio,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.01801801801802
+delta_alpha_ratio,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.54154154154154
+delta_alpha_ratio,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.976976976976978
+delta_alpha_ratio,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.54154154154154
+delta_alpha_ratio,C3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.217217217217218
+delta_alpha_ratio,C3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.82082082082082
+delta_alpha_ratio,F4,Spectral,Inverse_Additive,Female,Statistical Stabilization,23.41841841841842
+delta_alpha_ratio,F4,Spectral,Inverse_Additive,Male,Statistical Stabilization,23.41841841841842
+delta_alpha_ratio,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.295295295295297
+delta_alpha_ratio,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.656656656656658
+delta_alpha_ratio,Fp2,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.016016016016017
+delta_alpha_ratio,Fp2,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.016016016016017
+delta_alpha_ratio,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.855855855855857
+delta_alpha_ratio,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.7017017017017
+delta_alpha_ratio,Cz,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.176176176176178
+delta_alpha_ratio,Cz,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.176176176176178
+delta_alpha_ratio,Fz,Spectral,Inverse_Additive,Female,Statistical Stabilization,20.055055055055057
+delta_alpha_ratio,Fz,Spectral,Inverse_Additive,Male,Statistical Stabilization,20.055055055055057
+delta_alpha_ratio,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.615615615615617
+delta_alpha_ratio,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.66066066066066
+delta_alpha_ratio,T5,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+delta_alpha_ratio,T5,Spectral,Inverse_Interactive,Male,Statistical Stabilization,26.38138138138138
+delta_alpha_ratio,T4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.57857857857858
+delta_alpha_ratio,T4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.98098098098098
+delta_alpha_ratio,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,26.38138138138138
+delta_alpha_ratio,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,26.38138138138138
+delta_alpha_ratio,F8,Spectral,Inverse_Additive,Female,Statistical Stabilization,25.18018018018018
+delta_alpha_ratio,F8,Spectral,Inverse_Additive,Male,Statistical Stabilization,25.18018018018018
+delta_alpha_ratio,F7,Spectral,Inverse_Additive,Female,Statistical Stabilization,25.26026026026026
+delta_alpha_ratio,F7,Spectral,Inverse_Additive,Male,Statistical Stabilization,25.26026026026026
+delta_alpha_ratio,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.096096096096097
+delta_alpha_ratio,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,25.34034034034034
+delta_alpha_ratio,Fp1,Spectral,Inverse_Additive,Female,Statistical Stabilization,19.654654654654657
+delta_alpha_ratio,Fp1,Spectral,Inverse_Additive,Male,Statistical Stabilization,19.654654654654657
+app_ent,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+app_ent,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.734734734734737
+app_ent,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.176176176176178
+app_ent,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,16.85185185185185
+app_ent,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,20.935935935935937
+app_ent,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.17217217217217
+app_ent,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.736736736736738
+app_ent,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.373373373373376
+app_ent,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.21921921921922
+app_ent,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.816816816816818
+app_ent,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.01801801801802
+app_ent,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.533533533533536
+app_ent,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.05905905905906
+app_ent,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.375375375375377
+app_ent,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.21921921921922
+app_ent,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.814814814814817
+app_ent,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.61761761761762
+app_ent,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.293293293293296
+app_ent,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.45745745745746
+app_ent,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.453453453453456
+app_ent,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+app_ent,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.972972972972975
+app_ent,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.176176176176178
+app_ent,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.65265265265265
+app_ent,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.61761761761762
+app_ent,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.574574574574577
+app_ent,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,21.176176176176178
+app_ent,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,21.176176176176178
+app_ent,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,22.45745745745746
+app_ent,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,22.45745745745746
+app_ent,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.33833833833834
+app_ent,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.654654654654657
+app_ent,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.18018018018018
+app_ent,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.176176176176178
+app_ent,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.61761761761762
+app_ent,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.414414414414416
+app_ent,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+app_ent,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.414414414414416
+aperiodic_slope,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.21921921921922
+aperiodic_slope,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+aperiodic_slope,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.25825825825826
+aperiodic_slope,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.494494494494496
+aperiodic_slope,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+aperiodic_slope,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.094094094094096
+aperiodic_slope,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.17817817817818
+aperiodic_slope,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.135135135135137
+aperiodic_slope,C3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+aperiodic_slope,C3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.37737737737738
+aperiodic_slope,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+aperiodic_slope,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.414414414414416
+aperiodic_slope,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+aperiodic_slope,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.055055055055057
+aperiodic_slope,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.8988988988989
+aperiodic_slope,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.654654654654657
+aperiodic_slope,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+aperiodic_slope,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.894894894894897
+aperiodic_slope,Cz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.05905905905906
+aperiodic_slope,Cz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.574574574574577
+aperiodic_slope,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.61761761761762
+aperiodic_slope,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.73273273273273
+aperiodic_slope,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.4984984984985
+aperiodic_slope,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.615615615615617
+aperiodic_slope,T5,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.53953953953954
+aperiodic_slope,T5,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.816816816816818
+aperiodic_slope,T4,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.976976976976978
+aperiodic_slope,T4,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.976976976976978
+aperiodic_slope,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.976976976976978
+aperiodic_slope,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.976976976976978
+aperiodic_slope,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.0980980980981
+aperiodic_slope,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.974974974974977
+aperiodic_slope,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.93793793793794
+aperiodic_slope,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.894894894894897
+aperiodic_slope,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,24.53953953953954
+aperiodic_slope,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.256256256256258
+aperiodic_slope,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.85785785785786
+aperiodic_slope,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.133133133133136
+aperiodic_intercept,O1,Spectral,Inverse_Additive,Female,Statistical Stabilization,17.01201201201201
+aperiodic_intercept,O1,Spectral,Inverse_Additive,Male,Statistical Stabilization,17.01201201201201
+aperiodic_intercept,P3,Spectral,Inverse_Additive,Female,Statistical Stabilization,15.81081081081081
+aperiodic_intercept,P3,Spectral,Inverse_Additive,Male,Statistical Stabilization,15.81081081081081
+aperiodic_intercept,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.17217217217217
+aperiodic_intercept,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.92992992992993
+aperiodic_intercept,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,13.568568568568569
+aperiodic_intercept,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,9.244244244244245
+aperiodic_intercept,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.414414414414416
+aperiodic_intercept,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.44944944944945
+aperiodic_intercept,T6,Spectral,Inverse_Additive,Female,Statistical Stabilization,17.17217217217217
+aperiodic_intercept,T6,Spectral,Inverse_Additive,Male,Statistical Stabilization,17.17217217217217
+aperiodic_intercept,T4,Spectral,Inverse_Additive,Female,Statistical Stabilization,14.76976976976977
+aperiodic_intercept,T4,Spectral,Inverse_Additive,Male,Statistical Stabilization,14.76976976976977
+aperiodic_intercept,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,13.80880880880881
+aperiodic_intercept,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,13.80880880880881
+aperiodic_intercept,F8,Spectral,Inverse_Additive,Female,Statistical Stabilization,9.884884884884885
+aperiodic_intercept,F8,Spectral,Inverse_Additive,Male,Statistical Stabilization,9.884884884884885
+aperiodic_intercept,F7,Spectral,Inverse_Additive,Female,Statistical Stabilization,10.685685685685685
+aperiodic_intercept,F7,Spectral,Inverse_Additive,Male,Statistical Stabilization,10.685685685685685
+aperiodic_intercept,O2,Spectral,Inverse_Additive,Female,Statistical Stabilization,17.49249249249249
+aperiodic_intercept,O2,Spectral,Inverse_Additive,Male,Statistical Stabilization,17.49249249249249
+aperiodic_intercept,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,14.36936936936937
+aperiodic_intercept,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,6.761761761761762
+adjusted_power-Gamma,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,16.69169169169169
+adjusted_power-Gamma,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.88888888888889
+adjusted_power-Gamma,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.57257257257257
+adjusted_power-Gamma,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.168168168168169
+adjusted_power-Gamma,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.892892892892895
+adjusted_power-Gamma,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.44944944944945
+adjusted_power-Gamma,C3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.334334334334336
+adjusted_power-Gamma,C3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.92992992992993
+adjusted_power-Gamma,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,18.293293293293296
+adjusted_power-Gamma,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,15.09009009009009
+adjusted_power-Gamma,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.972972972972975
+adjusted_power-Gamma,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,14.44944944944945
+adjusted_power-Gamma,Pz,Spectral,Inverse_Additive,Female,Statistical Stabilization,17.25225225225225
+adjusted_power-Gamma,Pz,Spectral,Inverse_Additive,Male,Statistical Stabilization,17.25225225225225
+adjusted_power-Gamma,Cz,Spectral,Inverse_Additive,Female,Statistical Stabilization,18.133133133133136
+adjusted_power-Gamma,Cz,Spectral,Inverse_Additive,Male,Statistical Stabilization,18.133133133133136
+adjusted_power-Gamma,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.892892892892895
+adjusted_power-Gamma,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.568568568568569
+adjusted_power-Gamma,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,17.25225225225225
+adjusted_power-Gamma,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.008008008008009
+adjusted_power-Gamma,T5,Spectral,Inverse_Additive,Female,Statistical Stabilization,17.33233233233233
+adjusted_power-Gamma,T5,Spectral,Inverse_Additive,Male,Statistical Stabilization,17.33233233233233
+adjusted_power-Gamma,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.775775775775777
+adjusted_power-Gamma,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.053053053053056
+adjusted_power-Gamma,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,18.213213213213216
+adjusted_power-Gamma,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,15.01001001001001
+adjusted_power-Delta,O1,Spectral,Inverse_Additive,Female,Statistical Stabilization,12.367367367367368
+adjusted_power-Delta,O1,Spectral,Inverse_Additive,Male,Statistical Stabilization,12.367367367367368
+adjusted_power-Delta,F4,Spectral,Inverse_Additive,Female,Statistical Stabilization,9.484484484484485
+adjusted_power-Delta,F4,Spectral,Inverse_Additive,Male,Statistical Stabilization,9.484484484484485
+adjusted_power-Delta,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,6.761761761761762
+adjusted_power-Delta,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,6.441441441441441
+adjusted_power-Delta,T3,Spectral,Inverse_Additive,Female,Statistical Stabilization,8.123123123123122
+adjusted_power-Delta,T3,Spectral,Inverse_Additive,Male,Statistical Stabilization,8.123123123123122
+adjusted_power-Delta,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,9.164164164164164
+adjusted_power-Delta,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,7.402402402402402
+adjusted_power-Beta,P4,Spectral,Inverse_Additive,Female,Statistical Stabilization,13.088088088088089
+adjusted_power-Beta,P4,Spectral,Inverse_Additive,Male,Statistical Stabilization,13.088088088088089
+adjusted_power-Beta,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.49049049049049
+adjusted_power-Beta,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,10.845845845845846
+adjusted_power-Beta,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.89089089089089
+adjusted_power-Beta,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,12.447447447447448
+adjusted_power-Beta,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,16.05105105105105
+adjusted_power-Beta,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,13.168168168168169
+adjusted_power-Beta,Pz,Spectral,Inverse_Additive,Female,Statistical Stabilization,15.01001001001001
+adjusted_power-Beta,Pz,Spectral,Inverse_Additive,Male,Statistical Stabilization,15.01001001001001
+adjusted_power-Beta,Cz,Spectral,Inverse_Additive,Female,Statistical Stabilization,16.53153153153153
+adjusted_power-Beta,Cz,Spectral,Inverse_Additive,Male,Statistical Stabilization,16.53153153153153
+adjusted_power-Beta,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.17017017017017
+adjusted_power-Beta,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,11.326326326326326
+adjusted_power-Beta,T5,Spectral,Inverse_Additive,Female,Statistical Stabilization,14.76976976976977
+adjusted_power-Beta,T5,Spectral,Inverse_Additive,Male,Statistical Stabilization,14.76976976976977
+adjusted_power-Beta,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,15.41041041041041
+adjusted_power-Beta,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,12.367367367367368
+adjusted_power-Alpha,P4,Spectral,Inverse_Additive,Female,Statistical Stabilization,7.322322322322322
+adjusted_power-Alpha,P4,Spectral,Inverse_Additive,Male,Statistical Stabilization,7.322322322322322
+SP_Summaries_welch_rect_centroid,O1,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.816816816816818
+SP_Summaries_welch_rect_centroid,O1,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.816816816816818
+SP_Summaries_welch_rect_centroid,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.6976976976977
+SP_Summaries_welch_rect_centroid,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.496496496496498
+SP_Summaries_welch_rect_centroid,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.057057057057058
+SP_Summaries_welch_rect_centroid,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.855855855855857
+SP_Summaries_welch_rect_centroid,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.0980980980981
+SP_Summaries_welch_rect_centroid,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.057057057057058
+SP_Summaries_welch_rect_centroid,C3,Spectral,Inverse_Additive,Female,Statistical Stabilization,22.85785785785786
+SP_Summaries_welch_rect_centroid,C3,Spectral,Inverse_Additive,Male,Statistical Stabilization,22.85785785785786
+SP_Summaries_welch_rect_centroid,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.85785785785786
+SP_Summaries_welch_rect_centroid,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.176176176176178
+SP_Summaries_welch_rect_centroid,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.6976976976977
+SP_Summaries_welch_rect_centroid,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.615615615615617
+SP_Summaries_welch_rect_centroid,Cz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.976976976976978
+SP_Summaries_welch_rect_centroid,Cz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.455455455455457
+SP_Summaries_welch_rect_centroid,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.855855855855857
+SP_Summaries_welch_rect_centroid,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.254254254254256
+SP_Summaries_welch_rect_centroid,T6,Spectral,Inverse_Additive,Female,Statistical Stabilization,22.6976976976977
+SP_Summaries_welch_rect_centroid,T6,Spectral,Inverse_Additive,Male,Statistical Stabilization,22.6976976976977
+SP_Summaries_welch_rect_centroid,T5,Spectral,Inverse_Additive,Female,Statistical Stabilization,23.73873873873874
+SP_Summaries_welch_rect_centroid,T5,Spectral,Inverse_Additive,Male,Statistical Stabilization,23.73873873873874
+SP_Summaries_welch_rect_centroid,T4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.65865865865866
+SP_Summaries_welch_rect_centroid,T4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.2972972972973
+SP_Summaries_welch_rect_centroid,T3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,23.81881881881882
+SP_Summaries_welch_rect_centroid,T3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+SP_Summaries_welch_rect_centroid,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+SP_Summaries_welch_rect_centroid,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.256256256256258
+SP_Summaries_welch_rect_centroid,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.45745745745746
+SP_Summaries_welch_rect_centroid,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+SP_Summaries_welch_rect_centroid,O2,Spectral,Inverse_Additive,Female,Statistical Stabilization,21.816816816816818
+SP_Summaries_welch_rect_centroid,O2,Spectral,Inverse_Additive,Male,Statistical Stabilization,21.816816816816818
+SP_Summaries_welch_rect_area_5_1,O1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.695695695695697
+SP_Summaries_welch_rect_area_5_1,O1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.053053053053056
+SP_Summaries_welch_rect_area_5_1,P4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.055055055055057
+SP_Summaries_welch_rect_area_5_1,P4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,15.97097097097097
+SP_Summaries_welch_rect_area_5_1,P3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.894894894894897
+SP_Summaries_welch_rect_area_5_1,P3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,16.13113113113113
+SP_Summaries_welch_rect_area_5_1,C4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.455455455455457
+SP_Summaries_welch_rect_area_5_1,C4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.41241241241241
+SP_Summaries_welch_rect_area_5_1,C3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,22.137137137137138
+SP_Summaries_welch_rect_area_5_1,C3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,20.615615615615617
+SP_Summaries_welch_rect_area_5_1,F4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.455455455455457
+SP_Summaries_welch_rect_area_5_1,F4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,16.85185185185185
+SP_Summaries_welch_rect_area_5_1,F3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.336336336336338
+SP_Summaries_welch_rect_area_5_1,F3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.892892892892895
+SP_Summaries_welch_rect_area_5_1,Fp2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.256256256256258
+SP_Summaries_welch_rect_area_5_1,Fp2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.972972972972975
+SP_Summaries_welch_rect_area_5_1,Pz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.176176176176178
+SP_Summaries_welch_rect_area_5_1,Pz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.41241241241241
+SP_Summaries_welch_rect_area_5_1,Cz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.935935935935937
+SP_Summaries_welch_rect_area_5_1,Cz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.49249249249249
+SP_Summaries_welch_rect_area_5_1,Fz,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.974974974974977
+SP_Summaries_welch_rect_area_5_1,Fz,Spectral,Inverse_Interactive,Male,Statistical Stabilization,16.05105105105105
+SP_Summaries_welch_rect_area_5_1,T6,Spectral,Inverse_Interactive,Female,Statistical Stabilization,19.414414414414416
+SP_Summaries_welch_rect_area_5_1,T6,Spectral,Inverse_Interactive,Male,Statistical Stabilization,16.53153153153153
+SP_Summaries_welch_rect_area_5_1,T5,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.935935935935937
+SP_Summaries_welch_rect_area_5_1,T5,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.133133133133136
+SP_Summaries_welch_rect_area_5_1,T4,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.215215215215217
+SP_Summaries_welch_rect_area_5_1,T4,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.972972972972975
+SP_Summaries_welch_rect_area_5_1,T3,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.935935935935937
+SP_Summaries_welch_rect_area_5_1,T3,Spectral,Inverse_Interactive,Male,Statistical Stabilization,19.334334334334336
+SP_Summaries_welch_rect_area_5_1,F8,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.215215215215217
+SP_Summaries_welch_rect_area_5_1,F8,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.57257257257257
+SP_Summaries_welch_rect_area_5_1,F7,Spectral,Inverse_Interactive,Female,Statistical Stabilization,21.336336336336338
+SP_Summaries_welch_rect_area_5_1,F7,Spectral,Inverse_Interactive,Male,Statistical Stabilization,18.773773773773776
+SP_Summaries_welch_rect_area_5_1,O2,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.615615615615617
+SP_Summaries_welch_rect_area_5_1,O2,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.812812812812812
+SP_Summaries_welch_rect_area_5_1,Fp1,Spectral,Inverse_Interactive,Female,Statistical Stabilization,20.695695695695697
+SP_Summaries_welch_rect_area_5_1,Fp1,Spectral,Inverse_Interactive,Male,Statistical Stabilization,17.33233233233233
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,6.921921921921922
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,6.921921921921922
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,9.404404404404405
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,9.404404404404405
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,6.361361361361361
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,5.0
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,F7,Complexity,Inverse_Additive,Female,Statistical Stabilization,13.328328328328329
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,F7,Complexity,Inverse_Additive,Male,Statistical Stabilization,13.328328328328329
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,14.28928928928929
+SC_FluctAnal_2_dfa_50_1_2_logi_prop_r1,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,11.406406406406406
+SB_TransitionMatrix_3ac_sumdiagcov,F7,Complexity,Inverse_Additive,Female,Statistical Stabilization,17.01201201201201
+SB_TransitionMatrix_3ac_sumdiagcov,F7,Complexity,Inverse_Additive,Male,Statistical Stabilization,17.01201201201201
+SB_MotifThree_quantile_hh,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.66066066066066
+SB_MotifThree_quantile_hh,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+SB_MotifThree_quantile_hh,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.02002002002002
+SB_MotifThree_quantile_hh,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.935935935935937
+SB_MotifThree_quantile_hh,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+SB_MotifThree_quantile_hh,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.176176176176178
+SB_MotifThree_quantile_hh,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.42042042042042
+SB_MotifThree_quantile_hh,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.976976976976978
+SB_MotifThree_quantile_hh,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.94194194194194
+SB_MotifThree_quantile_hh,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.6996996996997
+SB_MotifThree_quantile_hh,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.82082082082082
+SB_MotifThree_quantile_hh,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.416416416416418
+SB_MotifThree_quantile_hh,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.06106106106106
+SB_MotifThree_quantile_hh,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.37737737737738
+SB_MotifThree_quantile_hh,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.46146146146146
+SB_MotifThree_quantile_hh,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.45745745745746
+SB_MotifThree_quantile_hh,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.14114114114114
+SB_MotifThree_quantile_hh,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.217217217217218
+SB_MotifThree_quantile_hh,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.38138138138138
+SB_MotifThree_quantile_hh,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.2972972972973
+SB_MotifThree_quantile_hh,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.18018018018018
+SB_MotifThree_quantile_hh,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.535535535535537
+SB_MotifThree_quantile_hh,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.45945945945946
+SB_MotifThree_quantile_hh,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+SB_MotifThree_quantile_hh,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.98098098098098
+SB_MotifThree_quantile_hh,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+SB_MotifThree_quantile_hh,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.1001001001001
+SB_MotifThree_quantile_hh,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.6976976976977
+SB_MotifThree_quantile_hh,T3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.82082082082082
+SB_MotifThree_quantile_hh,T3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.73873873873874
+SB_MotifThree_quantile_hh,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.42042042042042
+SB_MotifThree_quantile_hh,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.736736736736738
+SB_MotifThree_quantile_hh,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.38138138138138
+SB_MotifThree_quantile_hh,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.6976976976977
+SB_MotifThree_quantile_hh,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.82082082082082
+SB_MotifThree_quantile_hh,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.77777777777778
+SB_MotifThree_quantile_hh,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.58058058058058
+SB_MotifThree_quantile_hh,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.416416416416418
+SB_BinaryStats_mean_longstretch1,O1,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.024024024024023
+SB_BinaryStats_mean_longstretch1,O1,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.024024024024023
+SB_BinaryStats_mean_longstretch1,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.584584584584583
+SB_BinaryStats_mean_longstretch1,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.982982982982982
+SB_BinaryStats_mean_longstretch1,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.104104104104103
+SB_BinaryStats_mean_longstretch1,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.104104104104103
+SB_BinaryStats_mean_longstretch1,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.34234234234234
+SB_BinaryStats_mean_longstretch1,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.34234234234234
+SB_BinaryStats_mean_longstretch1,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.58258258258258
+SB_BinaryStats_mean_longstretch1,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.58258258258258
+SB_BinaryStats_mean_longstretch1,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.783783783783782
+SB_BinaryStats_mean_longstretch1,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.54154154154154
+SB_BinaryStats_mean_longstretch1,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.02202202202202
+SB_BinaryStats_mean_longstretch1,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.85985985985986
+SB_BinaryStats_mean_longstretch1,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.3013013013013
+SB_BinaryStats_mean_longstretch1,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.53953953953954
+SB_BinaryStats_mean_longstretch1,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.104104104104103
+SB_BinaryStats_mean_longstretch1,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.104104104104103
+SB_BinaryStats_mean_longstretch1,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.623623623623622
+SB_BinaryStats_mean_longstretch1,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.623623623623622
+SB_BinaryStats_mean_longstretch1,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.02202202202202
+SB_BinaryStats_mean_longstretch1,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.2992992992993
+SB_BinaryStats_mean_longstretch1,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.424424424424423
+SB_BinaryStats_mean_longstretch1,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.424424424424423
+SB_BinaryStats_mean_longstretch1,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,30.065065065065063
+SB_BinaryStats_mean_longstretch1,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,30.065065065065063
+SB_BinaryStats_mean_longstretch1,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.902902902902902
+SB_BinaryStats_mean_longstretch1,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.902902902902902
+SB_BinaryStats_mean_longstretch1,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.104104104104103
+SB_BinaryStats_mean_longstretch1,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.104104104104103
+SB_BinaryStats_mean_longstretch1,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.34234234234234
+SB_BinaryStats_mean_longstretch1,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.93993993993994
+SB_BinaryStats_mean_longstretch1,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.74274274274274
+SB_BinaryStats_mean_longstretch1,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.74074074074074
+SB_BinaryStats_mean_longstretch1,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.664664664664663
+SB_BinaryStats_mean_longstretch1,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.664664664664663
+SB_BinaryStats_mean_longstretch1,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.42042042042042
+SB_BinaryStats_mean_longstretch1,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.45745745745746
+SB_BinaryStats_diff_longstretch0,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.97897897897898
+SB_BinaryStats_diff_longstretch0,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.574574574574577
+SB_BinaryStats_diff_longstretch0,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.77777777777778
+SB_BinaryStats_diff_longstretch0,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.57257257257257
+SB_BinaryStats_diff_longstretch0,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.896896896896898
+SB_BinaryStats_diff_longstretch0,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.49249249249249
+SB_BinaryStats_diff_longstretch0,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.85785785785786
+SB_BinaryStats_diff_longstretch0,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+SB_BinaryStats_diff_longstretch0,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+SB_BinaryStats_diff_longstretch0,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.935935935935937
+SB_BinaryStats_diff_longstretch0,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+SB_BinaryStats_diff_longstretch0,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.25225225225225
+SB_BinaryStats_diff_longstretch0,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.2992992992993
+SB_BinaryStats_diff_longstretch0,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.334334334334336
+SB_BinaryStats_diff_longstretch0,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.2992992992993
+SB_BinaryStats_diff_longstretch0,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.812812812812812
+SB_BinaryStats_diff_longstretch0,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.53953953953954
+SB_BinaryStats_diff_longstretch0,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.933933933933936
+SB_BinaryStats_diff_longstretch0,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+SB_BinaryStats_diff_longstretch0,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.933933933933936
+SB_BinaryStats_diff_longstretch0,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+SB_BinaryStats_diff_longstretch0,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.453453453453456
+SB_BinaryStats_diff_longstretch0,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,22.45745745745746
+SB_BinaryStats_diff_longstretch0,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,17.33233233233233
+SB_BinaryStats_diff_longstretch0,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.17817817817818
+SB_BinaryStats_diff_longstretch0,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+SB_BinaryStats_diff_longstretch0,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,21.976976976976978
+SB_BinaryStats_diff_longstretch0,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.014014014014016
+SB_BinaryStats_diff_longstretch0,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,21.816816816816818
+SB_BinaryStats_diff_longstretch0,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,21.816816816816818
+SB_BinaryStats_diff_longstretch0,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+SB_BinaryStats_diff_longstretch0,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.133133133133136
+SB_BinaryStats_diff_longstretch0,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.42042042042042
+SB_BinaryStats_diff_longstretch0,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.174174174174176
+SB_BinaryStats_diff_longstretch0,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.13913913913914
+SB_BinaryStats_diff_longstretch0,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,19.334334334334336
+SB_BinaryStats_diff_longstretch0,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.45945945945946
+SB_BinaryStats_diff_longstretch0,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.533533533533536
+PD_PeriodicityWang_th0_01,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.4984984984985
+PD_PeriodicityWang_th0_01,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,28.063063063063062
+PD_PeriodicityWang_th0_01,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.82082082082082
+PD_PeriodicityWang_th0_01,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.82082082082082
+PD_PeriodicityWang_th0_01,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.54154154154154
+PD_PeriodicityWang_th0_01,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.54154154154154
+PD_PeriodicityWang_th0_01,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.78178178178178
+PD_PeriodicityWang_th0_01,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.78178178178178
+PD_PeriodicityWang_th0_01,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.54154154154154
+PD_PeriodicityWang_th0_01,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.54154154154154
+PD_PeriodicityWang_th0_01,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.424424424424423
+PD_PeriodicityWang_th0_01,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.78178178178178
+PD_PeriodicityWang_th0_01,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.58258258258258
+PD_PeriodicityWang_th0_01,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.58258258258258
+PD_PeriodicityWang_th0_01,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,30.225225225225223
+PD_PeriodicityWang_th0_01,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.18218218218218
+PD_PeriodicityWang_th0_01,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.26026026026026
+PD_PeriodicityWang_th0_01,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.902902902902902
+PD_PeriodicityWang_th0_01,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.26226226226226
+PD_PeriodicityWang_th0_01,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.26226226226226
+PD_PeriodicityWang_th0_01,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.063063063063062
+PD_PeriodicityWang_th0_01,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.42042042042042
+PD_PeriodicityWang_th0_01,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.26026026026026
+PD_PeriodicityWang_th0_01,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.26026026026026
+PD_PeriodicityWang_th0_01,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.46146146146146
+PD_PeriodicityWang_th0_01,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.46146146146146
+PD_PeriodicityWang_th0_01,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.703703703703702
+PD_PeriodicityWang_th0_01,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.7017017017017
+PD_PeriodicityWang_th0_01,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.982982982982982
+PD_PeriodicityWang_th0_01,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.982982982982982
+PD_PeriodicityWang_th0_01,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.344344344344343
+PD_PeriodicityWang_th0_01,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.06106106106106
+PD_PeriodicityWang_th0_01,F7,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.383383383383382
+PD_PeriodicityWang_th0_01,F7,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.383383383383382
+PD_PeriodicityWang_th0_01,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.58058058058058
+PD_PeriodicityWang_th0_01,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.58058058058058
+PD_PeriodicityWang_th0_01,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.822822822822822
+PD_PeriodicityWang_th0_01,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.82082082082082
+MD_hrv_classic_pnn40,O1,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.982982982982982
+MD_hrv_classic_pnn40,O1,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.982982982982982
+MD_hrv_classic_pnn40,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.303303303303302
+MD_hrv_classic_pnn40,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.18018018018018
+MD_hrv_classic_pnn40,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.38138138138138
+MD_hrv_classic_pnn40,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.38138138138138
+MD_hrv_classic_pnn40,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.543543543543542
+MD_hrv_classic_pnn40,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.82082082082082
+MD_hrv_classic_pnn40,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.303303303303302
+MD_hrv_classic_pnn40,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.303303303303302
+MD_hrv_classic_pnn40,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.904904904904903
+MD_hrv_classic_pnn40,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.61961961961962
+MD_hrv_classic_pnn40,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.584584584584583
+MD_hrv_classic_pnn40,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.02002002002002
+MD_hrv_classic_pnn40,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.783783783783782
+MD_hrv_classic_pnn40,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.4984984984985
+MD_hrv_classic_pnn40,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.904904904904903
+MD_hrv_classic_pnn40,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.14114114114114
+MD_hrv_classic_pnn40,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,30.065065065065063
+MD_hrv_classic_pnn40,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.42042042042042
+MD_hrv_classic_pnn40,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.703703703703702
+MD_hrv_classic_pnn40,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+MD_hrv_classic_pnn40,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.94194194194194
+MD_hrv_classic_pnn40,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.94194194194194
+MD_hrv_classic_pnn40,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.18218218218218
+MD_hrv_classic_pnn40,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.18218218218218
+MD_hrv_classic_pnn40,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.1021021021021
+MD_hrv_classic_pnn40,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.1021021021021
+MD_hrv_classic_pnn40,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.902902902902902
+MD_hrv_classic_pnn40,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.902902902902902
+MD_hrv_classic_pnn40,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.424424424424423
+MD_hrv_classic_pnn40,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.85985985985986
+MD_hrv_classic_pnn40,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,30.385385385385383
+MD_hrv_classic_pnn40,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.42042042042042
+MD_hrv_classic_pnn40,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.584584584584583
+MD_hrv_classic_pnn40,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.7017017017017
+MD_hrv_classic_pnn40,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.66266266266266
+MD_hrv_classic_pnn40,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.37737737737738
+IN_AutoMutualInfoStats_40_gaussian_fmmi,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.46146146146146
+IN_AutoMutualInfoStats_40_gaussian_fmmi,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,29.584584584584583
+IN_AutoMutualInfoStats_40_gaussian_fmmi,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.822822822822822
+IN_AutoMutualInfoStats_40_gaussian_fmmi,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.822822822822822
+IN_AutoMutualInfoStats_40_gaussian_fmmi,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.902902902902902
+IN_AutoMutualInfoStats_40_gaussian_fmmi,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.902902902902902
+IN_AutoMutualInfoStats_40_gaussian_fmmi,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.223223223223222
+IN_AutoMutualInfoStats_40_gaussian_fmmi,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.223223223223222
+IN_AutoMutualInfoStats_40_gaussian_fmmi,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.223223223223222
+IN_AutoMutualInfoStats_40_gaussian_fmmi,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.223223223223222
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.664664664664663
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.86186186186186
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.063063063063062
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.063063063063062
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.664664664664663
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.94194194194194
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.902902902902902
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.902902902902902
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,29.424424424424423
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,29.424424424424423
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.623623623623622
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.14114114114114
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.18218218218218
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.18218218218218
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.063063063063062
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.063063063063062
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.664664664664663
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.5025025025025
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.543543543543542
+IN_AutoMutualInfoStats_40_gaussian_fmmi,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.543543543543542
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,30.065065065065063
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.46146146146146
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.664664664664663
+IN_AutoMutualInfoStats_40_gaussian_fmmi,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.22122122122122
+IN_AutoMutualInfoStats_40_gaussian_fmmi,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.78178178178178
+IN_AutoMutualInfoStats_40_gaussian_fmmi,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.78178178178178
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.74274274274274
+IN_AutoMutualInfoStats_40_gaussian_fmmi,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.26026026026026
+FC_LocalSimple_mean3_stderr,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.46146146146146
+FC_LocalSimple_mean3_stderr,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.2992992992993
+FC_LocalSimple_mean3_stderr,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.86186186186186
+FC_LocalSimple_mean3_stderr,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.57857857857858
+FC_LocalSimple_mean3_stderr,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.54154154154154
+FC_LocalSimple_mean3_stderr,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.4984984984985
+FC_LocalSimple_mean3_stderr,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.94194194194194
+FC_LocalSimple_mean3_stderr,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.13913913913914
+FC_LocalSimple_mean3_stderr,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.18218218218218
+FC_LocalSimple_mean3_stderr,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.18218218218218
+FC_LocalSimple_mean3_stderr,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.7017017017017
+FC_LocalSimple_mean3_stderr,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+FC_LocalSimple_mean3_stderr,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.3013013013013
+FC_LocalSimple_mean3_stderr,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+FC_LocalSimple_mean3_stderr,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.14114114114114
+FC_LocalSimple_mean3_stderr,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.53753753753754
+FC_LocalSimple_mean3_stderr,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.5025025025025
+FC_LocalSimple_mean3_stderr,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.53953953953954
+FC_LocalSimple_mean3_stderr,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.74274274274274
+FC_LocalSimple_mean3_stderr,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.37937937937938
+FC_LocalSimple_mean3_stderr,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.18018018018018
+FC_LocalSimple_mean3_stderr,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.096096096096097
+FC_LocalSimple_mean3_stderr,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.06106106106106
+FC_LocalSimple_mean3_stderr,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.65865865865866
+FC_LocalSimple_mean3_stderr,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.42242242242242
+FC_LocalSimple_mean3_stderr,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.1001001001001
+FC_LocalSimple_mean3_stderr,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.22122122122122
+FC_LocalSimple_mean3_stderr,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.13913913913914
+FC_LocalSimple_mean3_stderr,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.9009009009009
+FC_LocalSimple_mean3_stderr,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.9009009009009
+FC_LocalSimple_mean3_stderr,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.14114114114114
+FC_LocalSimple_mean3_stderr,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+FC_LocalSimple_mean3_stderr,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.46146146146146
+FC_LocalSimple_mean3_stderr,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.33833833833834
+FC_LocalSimple_mean3_stderr,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.02202202202202
+FC_LocalSimple_mean3_stderr,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.37937937937938
+FC_LocalSimple_mean3_stderr,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.45945945945946
+FC_LocalSimple_mean3_stderr,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.775775775775777
+DN_Spread_Std,F7,Morphological,Inverse_Additive,Female,Statistical Stabilization,9.724724724724725
+DN_Spread_Std,F7,Morphological,Inverse_Additive,Male,Statistical Stabilization,9.724724724724725
+DN_OutlierInclude_p_001_mdrmd,F4,Morphological,Inverse_Additive,Female,Statistical Stabilization,14.44944944944945
+DN_OutlierInclude_p_001_mdrmd,F4,Morphological,Inverse_Additive,Male,Statistical Stabilization,14.44944944944945
+DN_OutlierInclude_n_001_mdrmd,P3,Morphological,Inverse_Additive,Female,Statistical Stabilization,10.685685685685685
+DN_OutlierInclude_n_001_mdrmd,P3,Morphological,Inverse_Additive,Male,Statistical Stabilization,10.685685685685685
+DN_OutlierInclude_n_001_mdrmd,Fp2,Morphological,Inverse_Additive,Female,Statistical Stabilization,15.33033033033033
+DN_OutlierInclude_n_001_mdrmd,Fp2,Morphological,Inverse_Additive,Male,Statistical Stabilization,15.33033033033033
+DN_OutlierInclude_n_001_mdrmd,Cz,Morphological,Inverse_Additive,Female,Statistical Stabilization,11.166166166166166
+DN_OutlierInclude_n_001_mdrmd,Cz,Morphological,Inverse_Additive,Male,Statistical Stabilization,11.166166166166166
+DN_Mean,F4,Morphological,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),32.46746746746747
+DN_Mean,F4,Morphological,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),32.46746746746747
+DN_HistogramMode_5,P4,Morphological,Inverse_Additive,Female,Statistical Stabilization,11.806806806806808
+DN_HistogramMode_5,P4,Morphological,Inverse_Additive,Male,Statistical Stabilization,11.806806806806808
+DN_HistogramMode_10,C3,Morphological,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),31.986986986986988
+DN_HistogramMode_10,C3,Morphological,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),31.986986986986988
+CO_trev_1_num,O1,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),37.352352352352355
+CO_trev_1_num,O1,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),37.352352352352355
+CO_trev_1_num,O2,Complexity,Quadratic_Additive,Female,Reversal (Inc to Dec / Dec to Inc),85.0
+CO_trev_1_num,O2,Complexity,Quadratic_Additive,Male,Reversal (Inc to Dec / Dec to Inc),85.0
+CO_f1ecac,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.34034034034034
+CO_f1ecac,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.02202202202202
+CO_f1ecac,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.26226226226226
+CO_f1ecac,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.26226226226226
+CO_f1ecac,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.822822822822822
+CO_f1ecac,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.822822822822822
+CO_f1ecac,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.54154154154154
+CO_f1ecac,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.54154154154154
+CO_f1ecac,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.94194194194194
+CO_f1ecac,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.94194194194194
+CO_f1ecac,F4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.34234234234234
+CO_f1ecac,F4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.34234234234234
+CO_f1ecac,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.94194194194194
+CO_f1ecac,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.18018018018018
+CO_f1ecac,Fp2,Complexity,Inverse_Additive,Female,Statistical Stabilization,25.82082082082082
+CO_f1ecac,Fp2,Complexity,Inverse_Additive,Male,Statistical Stabilization,25.82082082082082
+CO_f1ecac,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.1021021021021
+CO_f1ecac,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.1021021021021
+CO_f1ecac,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.54154154154154
+CO_f1ecac,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.54154154154154
+CO_f1ecac,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.34034034034034
+CO_f1ecac,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+CO_f1ecac,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.74074074074074
+CO_f1ecac,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,27.42242242242242
+CO_f1ecac,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.1021021021021
+CO_f1ecac,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,28.943943943943943
+CO_f1ecac,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.94194194194194
+CO_f1ecac,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.94194194194194
+CO_f1ecac,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.143143143143142
+CO_f1ecac,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.143143143143142
+CO_f1ecac,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.86186186186186
+CO_f1ecac,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.77977977977978
+CO_f1ecac,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.42242242242242
+CO_f1ecac,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.18018018018018
+CO_f1ecac,O2,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.18218218218218
+CO_f1ecac,O2,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.18218218218218
+CO_f1ecac,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.77977977977978
+CO_f1ecac,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.53753753753754
+CO_HistogramAMI_even_2_5,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.42242242242242
+CO_HistogramAMI_even_2_5,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.53953953953954
+CO_HistogramAMI_even_2_5,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.5025025025025
+CO_HistogramAMI_even_2_5,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.33833833833834
+CO_HistogramAMI_even_2_5,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.02202202202202
+CO_HistogramAMI_even_2_5,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.41841841841842
+CO_HistogramAMI_even_2_5,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.822822822822822
+CO_HistogramAMI_even_2_5,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.37937937937938
+CO_HistogramAMI_even_2_5,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.822822822822822
+CO_HistogramAMI_even_2_5,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.822822822822822
+CO_HistogramAMI_even_2_5,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.26226226226226
+CO_HistogramAMI_even_2_5,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.85785785785786
+CO_HistogramAMI_even_2_5,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.34234234234234
+CO_HistogramAMI_even_2_5,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.41841841841842
+CO_HistogramAMI_even_2_5,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.62162162162162
+CO_HistogramAMI_even_2_5,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.77777777777778
+CO_HistogramAMI_even_2_5,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.623623623623622
+CO_HistogramAMI_even_2_5,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.2992992992993
+CO_HistogramAMI_even_2_5,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.303303303303302
+CO_HistogramAMI_even_2_5,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.8988988988989
+CO_HistogramAMI_even_2_5,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.14114114114114
+CO_HistogramAMI_even_2_5,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.496496496496498
+CO_HistogramAMI_even_2_5,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.86186186186186
+CO_HistogramAMI_even_2_5,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.33833833833834
+CO_HistogramAMI_even_2_5,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.463463463463462
+CO_HistogramAMI_even_2_5,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.26026026026026
+CO_HistogramAMI_even_2_5,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.78178178178178
+CO_HistogramAMI_even_2_5,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.2992992992993
+CO_HistogramAMI_even_2_5,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.7017017017017
+CO_HistogramAMI_even_2_5,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.7017017017017
+CO_HistogramAMI_even_2_5,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.18218218218218
+CO_HistogramAMI_even_2_5,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+CO_HistogramAMI_even_2_5,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.822822822822822
+CO_HistogramAMI_even_2_5,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.73873873873874
+CO_HistogramAMI_even_2_5,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.822822822822822
+CO_HistogramAMI_even_2_5,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.21921921921922
+CO_HistogramAMI_even_2_5,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.26026026026026
+CO_HistogramAMI_even_2_5,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.855855855855857
+CO_FirstMin_ac,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.85985985985986
+CO_FirstMin_ac,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,28.543543543543542
+CO_FirstMin_ac,P4,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.54154154154154
+CO_FirstMin_ac,P4,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.54154154154154
+CO_FirstMin_ac,P3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.1021021021021
+CO_FirstMin_ac,P3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.1021021021021
+CO_FirstMin_ac,C4,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.5025025025025
+CO_FirstMin_ac,C4,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.5025025025025
+CO_FirstMin_ac,C3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.42242242242242
+CO_FirstMin_ac,C3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.42242242242242
+CO_FirstMin_ac,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.184184184184183
+CO_FirstMin_ac,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.62162162162162
+CO_FirstMin_ac,F3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.5025025025025
+CO_FirstMin_ac,F3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.5025025025025
+CO_FirstMin_ac,Fp2,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.143143143143142
+CO_FirstMin_ac,Fp2,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.143143143143142
+CO_FirstMin_ac,Pz,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.1021021021021
+CO_FirstMin_ac,Pz,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.1021021021021
+CO_FirstMin_ac,Cz,Complexity,Inverse_Additive,Female,Statistical Stabilization,28.223223223223222
+CO_FirstMin_ac,Cz,Complexity,Inverse_Additive,Male,Statistical Stabilization,28.223223223223222
+CO_FirstMin_ac,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.024024024024023
+CO_FirstMin_ac,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.66066066066066
+CO_FirstMin_ac,T6,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.06106106106106
+CO_FirstMin_ac,T6,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.06106106106106
+CO_FirstMin_ac,T5,Complexity,Inverse_Additive,Female,Statistical Stabilization,26.54154154154154
+CO_FirstMin_ac,T5,Complexity,Inverse_Additive,Male,Statistical Stabilization,26.54154154154154
+CO_FirstMin_ac,T4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.184184184184183
+CO_FirstMin_ac,T4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.46146146146146
+CO_FirstMin_ac,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,27.66266266266266
+CO_FirstMin_ac,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,27.66266266266266
+CO_FirstMin_ac,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.824824824824823
+CO_FirstMin_ac,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.82082082082082
+CO_FirstMin_ac,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,30.225225225225223
+CO_FirstMin_ac,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,25.98098098098098
+CO_FirstMin_ac,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.1001001001001
+CO_FirstMin_ac,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,26.78178178178178
+CO_FirstMin_ac,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.303303303303302
+CO_FirstMin_ac,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.85985985985986
+CO_Embed2_Dist_tau_d_expfit_meandiff,O1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.9009009009009
+CO_Embed2_Dist_tau_d_expfit_meandiff,O1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.576576576576578
+CO_Embed2_Dist_tau_d_expfit_meandiff,P4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.1021021021021
+CO_Embed2_Dist_tau_d_expfit_meandiff,P4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.217217217217218
+CO_Embed2_Dist_tau_d_expfit_meandiff,P3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.26026026026026
+CO_Embed2_Dist_tau_d_expfit_meandiff,P3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.496496496496498
+CO_Embed2_Dist_tau_d_expfit_meandiff,C4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.82082082082082
+CO_Embed2_Dist_tau_d_expfit_meandiff,C4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.896896896896898
+CO_Embed2_Dist_tau_d_expfit_meandiff,C3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.02202202202202
+CO_Embed2_Dist_tau_d_expfit_meandiff,C3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,24.21921921921922
+CO_Embed2_Dist_tau_d_expfit_meandiff,F4,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.46146146146146
+CO_Embed2_Dist_tau_d_expfit_meandiff,F4,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.336336336336338
+CO_Embed2_Dist_tau_d_expfit_meandiff,F3,Complexity,Inverse_Interactive,Female,Statistical Stabilization,27.02202202202202
+CO_Embed2_Dist_tau_d_expfit_meandiff,F3,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.816816816816818
+CO_Embed2_Dist_tau_d_expfit_meandiff,Fp2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+CO_Embed2_Dist_tau_d_expfit_meandiff,Fp2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.215215215215217
+CO_Embed2_Dist_tau_d_expfit_meandiff,Pz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,28.303303303303302
+CO_Embed2_Dist_tau_d_expfit_meandiff,Pz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.6976976976977
+CO_Embed2_Dist_tau_d_expfit_meandiff,Cz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,29.504504504504503
+CO_Embed2_Dist_tau_d_expfit_meandiff,Cz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.93793793793794
+CO_Embed2_Dist_tau_d_expfit_meandiff,Fz,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.62162162162162
+CO_Embed2_Dist_tau_d_expfit_meandiff,Fz,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.455455455455457
+CO_Embed2_Dist_tau_d_expfit_meandiff,T6,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.61961961961962
+CO_Embed2_Dist_tau_d_expfit_meandiff,T6,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.576576576576578
+CO_Embed2_Dist_tau_d_expfit_meandiff,T5,Complexity,Inverse_Interactive,Female,Statistical Stabilization,25.34034034034034
+CO_Embed2_Dist_tau_d_expfit_meandiff,T5,Complexity,Inverse_Interactive,Male,Statistical Stabilization,23.01801801801802
+CO_Embed2_Dist_tau_d_expfit_meandiff,T4,Complexity,Inverse_Additive,Female,Statistical Stabilization,22.2972972972973
+CO_Embed2_Dist_tau_d_expfit_meandiff,T4,Complexity,Inverse_Additive,Male,Statistical Stabilization,22.2972972972973
+CO_Embed2_Dist_tau_d_expfit_meandiff,T3,Complexity,Inverse_Additive,Female,Statistical Stabilization,22.6976976976977
+CO_Embed2_Dist_tau_d_expfit_meandiff,T3,Complexity,Inverse_Additive,Male,Statistical Stabilization,22.6976976976977
+CO_Embed2_Dist_tau_d_expfit_meandiff,F8,Complexity,Inverse_Interactive,Female,Statistical Stabilization,24.6996996996997
+CO_Embed2_Dist_tau_d_expfit_meandiff,F8,Complexity,Inverse_Interactive,Male,Statistical Stabilization,21.096096096096097
+CO_Embed2_Dist_tau_d_expfit_meandiff,F7,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.06106106106106
+CO_Embed2_Dist_tau_d_expfit_meandiff,F7,Complexity,Inverse_Interactive,Male,Statistical Stabilization,20.695695695695697
+CO_Embed2_Dist_tau_d_expfit_meandiff,O2,Complexity,Inverse_Interactive,Female,Statistical Stabilization,26.06106106106106
+CO_Embed2_Dist_tau_d_expfit_meandiff,O2,Complexity,Inverse_Interactive,Male,Statistical Stabilization,22.057057057057058
+CO_Embed2_Dist_tau_d_expfit_meandiff,Fp1,Complexity,Inverse_Interactive,Female,Statistical Stabilization,23.41841841841842
+CO_Embed2_Dist_tau_d_expfit_meandiff,Fp1,Complexity,Inverse_Interactive,Male,Statistical Stabilization,18.373373373373376
